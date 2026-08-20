@@ -1,0 +1,42 @@
+# ─────────────────────────────────────────────
+#  비밀은 절대 커밋하지 않는다
+#
+#  ⚠️ YouTube API 키는 **GitHub Actions Secret 에만** 둔다.
+#     레포 안에 파일로 만들지 말 것. 워크플로는 ${{ secrets.YOUTUBE_API_KEY }} 로만 읽는다.
+#     한 번 커밋되면 나중에 지워도 히스토리에 영원히 남는다.
+# ─────────────────────────────────────────────
+.env
+.env.*
+*.key
+*.pem
+*.p8
+*.p12
+*.mobileprovision
+*.secret
+secrets.json
+credentials.json
+service-account*.json
+*apikey*
+*api_key*
+*token*.json
+
+# 개인정보가 섞일 수 있는 것
+*.local
+private/
+personal/
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 에디터
+.vscode/
+.idea/
+*.swp

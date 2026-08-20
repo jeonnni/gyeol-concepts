@@ -1,0 +1,60 @@
+{
+  "_설명": [
+    "컨셉과 검색어 정의. 이 파일만 고치면 코드를 건드리지 않고 선곡을 바꿀 수 있다.",
+    "",
+    "⚠️ 배열 순서 = 컨셉 간 중복 제거 우선순위다 (앞의 컨셉이 영상을 먼저 가져간다).",
+    "   일부러 '좁은 컨셉 → 넓은 컨셉' 순으로 두었다. '작업용 브금' 같은 넓은 검색어를",
+    "   앞에 두면 lofi 계열을 싹 쓸어가서 공부·코딩에 남는 게 없어진다.",
+    "",
+    "화면에 보이는 순서는 order 필드가 정한다. 배열 순서와 분리되어 있다."
+  ],
+  "search": {
+    "_설명": [
+      "search.list 공통 옵션. order 는 GYEOL_ORDER 환경변수로 실험 시 덮어쓸 수 있다.",
+      "",
+      "⚠️ order 를 viewCount 로 되돌리지 말 것. 실측으로 확인한 차이다:",
+      "  viewCount → '역대 조회수 상위 중 느슨하게 걸리는 것' 을 준다. 그래서 밈과 게임 BGM 으로 샌다.",
+      "    작업 → '이마트', '지능이 떨어지는 브금' / 운동 → '원펀맨 처형브금', '포켓몬 BGM'",
+      "    공부 → '1시간 찬양모음', '밤 비행기 딥슬립'",
+      "  relevance → 질의 의도에 맞는 것을 준다. 세 컨셉 모두 상위 10곡이 전부 제대로 걸렸고,",
+      "    후보 수도 늘었다 (공부 28→73, 운동 46→66, 작업 44→56)."
+    ],
+    "order": "relevance",
+    "regionCode": "KR",
+    "relevanceLanguage": "ko"
+  },
+  "concepts": [
+    { "id": "running", "name": "러닝",       "order": 6,
+      "queries": ["달리기 할 때 듣는 노래", "마라톤 러닝 페이스 플레이리스트", "running jogging music playlist"] },
+
+    { "id": "gym",     "name": "헬스",       "order": 5,
+      "queries": ["헬스장 노래 모음", "웨이트 쇠질할 때 듣는 노래", "gym weightlifting motivation music"] },
+
+    { "id": "workout", "name": "운동",       "order": 4,
+      "queries": ["홈트 할 때 듣는 노래", "유산소 운동 음악 플레이리스트", "운동할 때 듣는 노래 모음", "home workout music mix"] },
+
+    { "id": "cafe",    "name": "카페",       "order": 8,
+      "queries": ["카페에서 듣는 노래 모음", "카페 재즈 브금", "cafe jazz music 1 hour"] },
+
+    { "id": "rainy",   "name": "비 오는 날", "order": 10,
+      "queries": ["비 오는 날 듣는 노래", "빗소리 재즈 1시간", "rainy day jazz with rain sounds"] },
+
+    { "id": "sleep",   "name": "잠들기 전",  "order": 11,
+      "queries": ["잠잘때 듣는 음악", "수면 유도 음악 1시간", "sleep music deep sleep 1 hour"] },
+
+    { "id": "dawn",    "name": "새벽",       "order": 9,
+      "queries": ["새벽 감성 노래 모음", "새벽에 듣기 좋은 시티팝", "late night chill mix"] },
+
+    { "id": "reading", "name": "독서",       "order": 7,
+      "queries": ["독서할때 듣는 음악", "책 읽을때 듣는 클래식", "reading music classical 1 hour"] },
+
+    { "id": "coding",  "name": "코딩",       "order": 2,
+      "queries": ["코딩할때 듣는 음악", "개발자 브금 lofi", "coding music focus mix"] },
+
+    { "id": "study",   "name": "공부",       "order": 1,
+      "queries": ["공부할때 듣는 노래 1시간", "공부 집중 음악 잔잔한 피아노", "study music concentration 1 hour"] },
+
+    { "id": "work",    "name": "작업",       "order": 3,
+      "queries": ["작업용 브금 1시간", "작업할때 듣는 노래 모음", "work music playlist 1 hour"] }
+  ]
+}

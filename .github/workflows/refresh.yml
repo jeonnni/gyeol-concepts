@@ -1,0 +1,78 @@
+name: concepts 갱신
+
+on:
+  schedule:
+    # 하루 2회. cron 은 UTC 기준이라 한국시간에서 9시간을 뺀 값이다.
+    #
+    # ⚠️ 시각을 고를 때 **유튜브 할당량이 태평양 시간 자정에 리셋**되는 걸 고려해야 한다.
+    # 처음에 07:00 UTC 로 두었는데 그게 정확히 00:00 PT(리셋 경계)라, 리셋 직전에 걸리면
+    # 전날 할당량으로 돌다 소진될 수 있었다. 두 시각 모두 PT 기준 같은 날 한복판에 오도록 옮겼다.
+    - cron: "0 19 * * *"   # KST 04:00 = 12:00 PT
+    - cron: "0 09 * * *"   # KST 18:00 = 02:00 PT
+  workflow_dispatch:        # 수동 실행 (Actions 탭 → Run workflow)
+    inputs:
+      order:
+        description: "검색 정렬 (비우면 설정 파일의 기본값)"
+        required: false
+        type: choice
+        options: ["", "relevance", "viewCount", "rating", "date"]
+        default: ""
+      only:
+        description: "일부 컨셉만 (쉼표 구분 id. 예: study,work,workout). 비우면 전체"
+        required: false
+        type: string
+        default: ""
+      dry_run:
+        description: "결과를 로그로만 보고 파일은 건드리지 않는다"
+        required: false
+        type: boolean
+        default: false
+
+# 워크플로가 concepts.json 을 커밋해야 하므로 쓰기 권한이 필요하다.
+permissions:
+  contents: write
+
+# 스케줄과 수동 실행이 겹쳐 같은 파일을 동시에 커밋하는 사고를 막는다.
+concurrency:
+  group: concepts-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 스크립트는 표준 라이브러리만 쓴다. pip install 단계가 없어 빠르고 덜 깨진다.
+      - name: 검색 및 검증
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GYEOL_ORDER:   ${{ inputs.order }}
+          GYEOL_ONLY:    ${{ inputs.only }}
+          GYEOL_DRY_RUN: ${{ inputs.dry_run }}
+        run: python scripts/fetch_concepts.py
+
+      - name: 변경분 커밋
+        if: ${{ !inputs.dry_run && !inputs.only }}
+        run: |
+          test -f docs/concepts.json || { echo "::error::docs/concepts.json 이 없다"; exit 1; }
+
+          # ⚠️ `git diff` 는 **추적되지 않는 파일을 보지 못한다.**
+          # 첫 실행에서 concepts.json 은 untracked 라 `git diff --quiet` 가 "변경 없음" 을
+          # 돌려주고 커밋이 통째로 건너뛰어졌다 (실제로 당했다. 검색 33회를 그냥 날렸다).
+          # 반드시 add 를 먼저 하고 --cached 로 스테이지를 봐야 한다.
+          git add docs/concepts.json
+          if git diff --cached --quiet -- docs/concepts.json; then
+            echo "변경 없음 — 커밋하지 않는다."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "concepts 갱신 $(date -u '+%Y-%m-%d %H:%MZ')"
+          git push
+          echo "커밋·푸시 완료: $(git rev-parse --short HEAD)"
