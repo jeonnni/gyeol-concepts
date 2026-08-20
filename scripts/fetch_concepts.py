@@ -124,6 +124,40 @@ def fetch_details(ids: list) -> dict:
     return out
 
 
+# ─────────────────────────────────────────────────────────────────────
+# 선곡에서 빼는 것들.
+#
+# ⚠️ **좁게 유지할 것.** 561개를 직접 훑어 본 결과 진짜로 걸러야 할 건 2개뿐이었고,
+# 처음에 짐작으로 만든 규칙은 대부분 오탐이었다. 실제로 겪은 오탐:
+#   · "노동요" 가 `동요` 에 걸렸다 — 작업용 음악을 가리키는 말이라 정상이다.
+#     그래서 `동요` 앞에 `노` 가 오면 빼는 lookbehind 를 넣었다.
+#   · 비 오는 날의 ASMR, 잠들기 전의 명상·수면음악은 **그 컨셉에 맞는 것**이다.
+#   · "메이플스토리 작업용 BGM" 도 정상이다. 게임 OST 로 작업하는 건 자리 잡은 장르다.
+# 규칙을 늘리고 싶으면 먼저 현재 목록에 돌려 보고 무엇이 빠지는지 눈으로 확인할 것.
+#
+# 걸러야 하는 건 "취향에 안 맞는 음악" 이 아니라 **작업용 BGM 이 아닌 것** 두 가지다.
+BLOCK_RULES = [
+    # ① 유아·아동용 — 랜덤에서 튀어나오면 가장 어색하다.
+    ("유아·아동", r"뽀로로|핑크퐁|베베핀|아기상어|상어가족|콩순이|티니핑|캐리와|"
+                 r"코코멜론|cocomelon|baby shark|super simple songs|little baby bum|"
+                 # `아기자기` 는 아기와 무관한 말이라 뺀다(카페·인테리어 계열 제목에 흔하다).
+                 r"아기(?!자기)|유아|어린이|키즈|유치원|어린이집|율동|(?<!노)동요|"
+                 r"nursery rhyme|kids song"),
+    # ② 음악이 아니라 말(음성) — 배경으로 깔면 집중을 깨뜨린다.
+    ("말 콘텐츠", r"설교|법문|기도문|오디오북|낭독|노래방|karaoke"),
+]
+
+
+def blocked_by_keyword(v: dict):
+    """제목·채널명에 걸리는 금칙어가 있으면 (사유) 를 돌려준다."""
+    sn = v.get("snippet", {})
+    text = f"{sn.get('title', '')} {sn.get('channelTitle', '')}"
+    for label, pattern in BLOCK_RULES:
+        if re.search(pattern, text, re.IGNORECASE):
+            return label
+    return None
+
+
 def judge(v: dict):
     """(통과 여부, 탈락 사유). 사유를 남기는 이유는 Actions 로그로 선곡 품질을 볼 수 있어서다."""
     # liveStreamingDetails 가 있으면 과거에 라이브였다는 뜻이다.
@@ -141,6 +175,11 @@ def judge(v: dict):
     secs = parse_duration(cd.get("duration", ""))
     if secs < MIN_SECONDS:
         return False, f"짧음({secs}초)"
+
+    # ⚠️ 금칙어는 **마지막에** 본다. 앞의 검사들이 기술적 재생 가능 여부라
+    # 그쪽부터 걸러야 로그의 탈락 사유가 원인을 정확히 가리킨다.
+    if (label := blocked_by_keyword(v)):
+        return False, label
 
     rr = cd.get("regionRestriction", {})
     if "KR" in rr.get("blocked", []):
