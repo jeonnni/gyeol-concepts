@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-08-31T23:07:50Z",
+ "generatedAt": "2026-09-01T13:59:15Z",
  "concepts": [
   {
    "id": "running",
@@ -8,16 +8,16 @@
    "order": 6,
    "videos": [
     {
-     "id": "whggKiGBSx4",
-     "title": "[playlist] 일하다 어깨 들썩이는 케이팝 노동요 || 4K MV",
-     "channel": "노래듣는 고영희",
-     "seconds": 8908
-    },
-    {
      "id": "5svlvTirzpg",
      "title": "[러닝 Playlist] 노래 부심주의👊🏻유산소는 음악빨, 10km 달리기 핵가능 최애곡들",
      "channel": "인생이시트콤_고구마 VLOG",
      "seconds": 3333
+    },
+    {
+     "id": "whggKiGBSx4",
+     "title": "[playlist] 일하다 어깨 들썩이는 케이팝 노동요 || 4K MV",
+     "channel": "노래듣는 고영희",
+     "seconds": 8908
     },
     {
      "id": "XrUNOYMFd58",
@@ -86,46 +86,16 @@
      "seconds": 1772
     },
     {
-     "id": "ZRHv4N-LpSY",
-     "title": "[CCM PLAYLIST] 런닝할 때 듣는🏃🏻 신나는 찬양🎶|운동할 때 듣는💪 | 나의 운동메이트는 주님🔥| 신나는 찬양 플레이리스트 | 오병이어교회 청하람 💙",
-     "channel": "청하람",
-     "seconds": 6018
-    },
-    {
      "id": "21ZZ_27owww",
      "title": "여름까지 얼마 안 남았다 | 하루 1시간 루틴용 러닝 음악 (중간광고없음) (140 BPM+) 🎧 Running Playlist for Motivation",
      "channel": "런플뮤직 [Workout Music]",
      "seconds": 36100
     },
     {
-     "id": "LFuMlbhe-Ec",
-     "title": "기적의 케이던스 180 🏃‍♂️ 달리기가 가벼워지는 앤마리(Anne-Marie) 감성 러닝 음악 (메트로놈 포함)",
-     "channel": "펄스런(PulseRun)",
-     "seconds": 16628
-    },
-    {
-     "id": "xzUXkSszfSU",
-     "title": "175 BPM '16-'25년 걸그룹 히트곡 3시간 + 메트로놈. 러닝 플레이리스트 (5)",
-     "channel": "TESS",
-     "seconds": 11101
-    },
-    {
-     "id": "7tagiYPcldE",
-     "title": "[Playlist] 러닝할 때 듣기 좋은 신나는 플리🏃‍",
-     "channel": "시포츠SiPORTS",
-     "seconds": 5711
-    },
-    {
-     "id": "oEVcLg1VATM",
-     "title": "Playlist | (중간광고없음)일어나 추워도 러닝가야지 | work out music! Exciting song!",
-     "channel": "Jay's Music",
-     "seconds": 7514
-    },
-    {
-     "id": "u7Mu1aDSaR4",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 | 여름 시작부터 텐션 MAX🔥걸그룹 인기곡 노동요 뮤비 플리☀️여자아이돌 노래모음 | 4K UHD",
-     "channel": "마쁠(MA-PLE·KPOP)",
-     "seconds": 8122
+     "id": "ZRHv4N-LpSY",
+     "title": "[CCM PLAYLIST] 런닝할 때 듣는🏃🏻 신나는 찬양🎶|운동할 때 듣는💪 | 나의 운동메이트는 주님🔥| 신나는 찬양 플레이리스트 | 오병이어교회 청하람 💙",
+     "channel": "청하람",
+     "seconds": 6018
     },
     {
      "id": "t8MCfuQTrow",
@@ -134,22 +104,52 @@
      "seconds": 11589
     },
     {
-     "id": "R2siuO7m1xk",
-     "title": "너 유산소 40분 달리라고 만들었어",
-     "channel": "멍플리 ᴍᴜɴɢᴘʟʏ",
-     "seconds": 2400
+     "id": "LFuMlbhe-Ec",
+     "title": "기적의 케이던스 180 🏃‍♂️ 달리기가 가벼워지는 앤마리(Anne-Marie) 감성 러닝 음악 (메트로놈 포함)",
+     "channel": "펄스런(PulseRun)",
+     "seconds": 16628
+    },
+    {
+     "id": "oEVcLg1VATM",
+     "title": "Playlist | (중간광고없음)일어나 추워도 러닝가야지 | work out music! Exciting song!",
+     "channel": "Jay's Music",
+     "seconds": 7514
+    },
+    {
+     "id": "7tagiYPcldE",
+     "title": "[Playlist] 러닝할 때 듣기 좋은 신나는 플리🏃‍",
+     "channel": "시포츠SiPORTS",
+     "seconds": 5711
+    },
+    {
+     "id": "xzUXkSszfSU",
+     "title": "175 BPM '16-'25년 걸그룹 히트곡 3시간 + 메트로놈. 러닝 플레이리스트 (5)",
+     "channel": "TESS",
+     "seconds": 11101
+    },
+    {
+     "id": "-Xbh3c2yG_0",
+     "title": "[3시간] 💪 헬스장 텐션 폭발! 🏋️‍♂️ 중량 치기 좋은 파워 댄스 가요 커버 플레이리스트 | 칼로리 태우는 강력한 비트 [AI COVER]",
+     "channel": "SJ MEDIA OFFiCIAL",
+     "seconds": 10032
+    },
+    {
+     "id": "u7Mu1aDSaR4",
+     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 | 여름 시작부터 텐션 MAX🔥걸그룹 인기곡 노동요 뮤비 플리☀️여자아이돌 노래모음 | 4K UHD",
+     "channel": "마쁠(MA-PLE·KPOP)",
+     "seconds": 8122
+    },
+    {
+     "id": "RV3RuQVQlo4",
+     "title": "[RUNNING PLAYLIST] 첫 곡부터 오버 페이스",
+     "channel": "인생이시트콤_고구마 VLOG",
+     "seconds": 3043
     },
     {
      "id": "w-8iIDbmPX8",
      "title": "Playlist | (중간광고없음) 봄에 살랑살랑 러닝하기 좋은 노래  | work out music! Exciting song!",
      "channel": "Jay's Music",
      "seconds": 7235
-    },
-    {
-     "id": "50wqlgoUcWA",
-     "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🏃💨] 이거 들으면서 뛰면 액션 영화 주인공 돼…★ | 도파민 분출 | 러닝 플리",
-     "channel": "해프닝 𝖍𝖆𝖕𝖕𝖊𝖓𝖎𝖓𝖌",
-     "seconds": 1860
     },
     {
      "id": "8Pu-93dCOoA",
@@ -168,12 +168,6 @@
      "title": "[러닝 2시간 특집] 러닝할땐 케이팝으로 케이던스 맞춰야지ㅣ국내 음악 BPM 175–180 플레이리스트ㅣrun on beat K-POP MIX",
      "channel": "쇼디 Show Discjockey",
      "seconds": 7437
-    },
-    {
-     "id": "RV3RuQVQlo4",
-     "title": "[RUNNING PLAYLIST] 첫 곡부터 오버 페이스",
-     "channel": "인생이시트콤_고구마 VLOG",
-     "seconds": 3043
     },
     {
      "id": "ScSrocMZICQ",
@@ -198,6 +192,12 @@
      "title": "ℙ𝕝𝕒𝕪𝕝𝕚𝕤𝕥 🔥 이 노래로 10km 달리기 가능?  | 내가 뛰려고 만든 180 케이던스 | 테크노#5 | #180bpm #180케이던스 #running",
      "channel": "네이처 레이브",
      "seconds": 4647
+    },
+    {
+     "id": "50wqlgoUcWA",
+     "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🏃💨] 이거 들으면서 뛰면 액션 영화 주인공 돼…★ | 도파민 분출 | 러닝 플리",
+     "channel": "해프닝 𝖍𝖆𝖕𝖕𝖊𝖓𝖎𝖓𝖌",
+     "seconds": 1860
     },
     {
      "id": "aaRafXk6yKw",
@@ -248,12 +248,6 @@
      "seconds": 3627
     },
     {
-     "id": "Yir4WyDi8rU",
-     "title": "Running Mix 2020 | 135 - 160 BPM | Best Running Music",
-     "channel": "Spinnin' Records",
-     "seconds": 3603
-    },
-    {
      "id": "aJukw7fhg0U",
      "title": "Running Music 2026 | 160–170 BPM | Run Beyond Limits • Nonstop Workout Mix",
      "channel": "Running Cadence Music",
@@ -278,28 +272,10 @@
      "seconds": 7301
     },
     {
-     "id": "LihUrqEX1A4",
-     "title": "UNSTOPPABLE ⚡ 160–170 BPM Running Music 2026 | 1 Hour Nonstop",
-     "channel": "Sub2 Running Music",
-     "seconds": 4392
-    },
-    {
      "id": "ljnGl5nvUJY",
      "title": "Songs that'll make you dance the whole day ~ Mood booster playlist",
      "channel": "Just Chillin'",
      "seconds": 2183
-    },
-    {
-     "id": "YUC-NhYa_jM",
-     "title": "[ 洋楽playlist ] 【ランニングBGM】 だんだんとモチベーションが爆上がりする洋楽プレイリスト【60分カウンター】｜ランニング＆ワークアウト",
-     "channel": "it. beautiful sound",
-     "seconds": 3606
-    },
-    {
-     "id": "A1K9DNQHOP8",
-     "title": "[2026 Playlist] Best Running Music – Fast Pace Training Mix 2026 (145–160 BPM)",
-     "channel": "Run Sync",
-     "seconds": 4849
     },
     {
      "id": "fQmSYhcUg00",
@@ -308,10 +284,34 @@
      "seconds": 8612
     },
     {
+     "id": "A1K9DNQHOP8",
+     "title": "[2026 Playlist] Best Running Music – Fast Pace Training Mix 2026 (145–160 BPM)",
+     "channel": "Run Sync",
+     "seconds": 4849
+    },
+    {
+     "id": "YUC-NhYa_jM",
+     "title": "[ 洋楽playlist ] 【ランニングBGM】 だんだんとモチベーションが爆上がりする洋楽プレイリスト【60分カウンター】｜ランニング＆ワークアウト",
+     "channel": "it. beautiful sound",
+     "seconds": 3606
+    },
+    {
+     "id": "Yir4WyDi8rU",
+     "title": "Running Mix 2020 | 135 - 160 BPM | Best Running Music",
+     "channel": "Spinnin' Records",
+     "seconds": 3603
+    },
+    {
      "id": "x5dQD-FUbjU",
      "title": "Running Music 2025 | Best EDM Music Playlist Workout Music for Running and Jogging Motivation",
      "channel": "Running Music",
      "seconds": 3707
+    },
+    {
+     "id": "LihUrqEX1A4",
+     "title": "UNSTOPPABLE ⚡ 160–170 BPM Running Music 2026 | 1 Hour Nonstop",
+     "channel": "Sub2 Running Music",
+     "seconds": 4392
     },
     {
      "id": "yoXu1oICvrk",
@@ -320,16 +320,16 @@
      "seconds": 3983
     },
     {
-     "id": "skhUNWhX2UY",
-     "title": "BEST WORKOUT MUSIC 2026💪GYM MUSIC MIX💪ENGLISH SONG💪FITNESS MIX💪MOTIVATION SONG💪GYM MOTIVATION SONGS💪",
-     "channel": "Only MOTIVATION",
-     "seconds": 3039
-    },
-    {
      "id": "Dy6KyVJSHHs",
      "title": "Easy Run Music 2025 • Energy for Cardio & Jogging",
      "channel": "Run With Music ",
      "seconds": 3703
+    },
+    {
+     "id": "skhUNWhX2UY",
+     "title": "BEST WORKOUT MUSIC 2026💪GYM MUSIC MIX💪ENGLISH SONG💪FITNESS MIX💪MOTIVATION SONG💪GYM MOTIVATION SONGS💪",
+     "channel": "Only MOTIVATION",
+     "seconds": 3039
     },
     {
      "id": "KTuCJIrlT50",
@@ -338,22 +338,22 @@
      "seconds": 3679
     },
     {
+     "id": "9S2nxm65kOM",
+     "title": "Morning Coffee Vol. 8 | Hype Workout Playlist, R&B, Hip-Hop, Mashups, Remixes, 90s, 2000s & More!",
+     "channel": "Andrew.",
+     "seconds": 3090
+    },
+    {
      "id": "8afBXZawfQw",
      "title": "Bollywood Workout Hits 🏋️‍♂️ | Apna Time Aayega, Dhaakad, Tera Baap Aaya, Jagga Jiteya | Gym Songs 💪",
      "channel": "Zee Music Company",
      "seconds": 5742
     },
     {
-     "id": "HAqNNjOix-s",
-     "title": "Infinite Stride | Running Music | Long Run Playlist | GYM | WORKOUT | FITNESS | TREADILL | CARDIO",
-     "channel": "Performance & Motion Music",
-     "seconds": 4617
-    },
-    {
-     "id": "9S2nxm65kOM",
-     "title": "Morning Coffee Vol. 8 | Hype Workout Playlist, R&B, Hip-Hop, Mashups, Remixes, 90s, 2000s & More!",
-     "channel": "Andrew.",
-     "seconds": 3090
+     "id": "pNS8D4b1oBE",
+     "title": "Treadmill Music for Running like a MARINE [HARD]",
+     "channel": "Runseek Running Music",
+     "seconds": 1320
     }
    ]
   },
@@ -381,12 +381,6 @@
      "seconds": 6318
     },
     {
-     "id": "-Xbh3c2yG_0",
-     "title": "[3시간] 💪 헬스장 텐션 폭발! 🏋️‍♂️ 중량 치기 좋은 파워 댄스 가요 커버 플레이리스트 | 칼로리 태우는 강력한 비트 [AI COVER]",
-     "channel": "SJ MEDIA OFFiCIAL",
-     "seconds": 10032
-    },
-    {
      "id": "zYMiQgTVeXM",
      "title": "𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩 💪 \"이제 끝내. 핑계도 망설임도\"｜헬스할 때 듣는 음악 ⚡ 쇠질 외힙 🔥 전투력 상승 플리",
      "channel": "Motion Beats",
@@ -405,16 +399,10 @@
      "seconds": 2725
     },
     {
-     "id": "THho49pWL0g",
-     "title": "🔥 4시간 풀파워 EDM | 운동할 때 듣는 헬스장 음악 | 4 Hour Gym Workout Music EDM Mix 2025",
-     "channel": "DJ저요",
-     "seconds": 14354
-    },
-    {
-     "id": "LUPt5BvDp8Y",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 응 맞아, 헬스장에서 찾던 바로 그 음악 플레이리스트 l 힙디엠 & 쌈뽕 & 노동요",
-     "channel": "perli",
-     "seconds": 37486
+     "id": "iytSjCJAReA",
+     "title": "[PLAYLIST] 꼴랑 10개라도 한 너, 대단해 | Allright 박재훈 플레이리스트 | 헬스장, 헬창 플리",
+     "channel": "쇠맛플레이",
+     "seconds": 4663
     },
     {
      "id": "nqQ9iCH-8Ro",
@@ -423,16 +411,28 @@
      "seconds": 4241
     },
     {
-     "id": "iytSjCJAReA",
-     "title": "[PLAYLIST] 꼴랑 10개라도 한 너, 대단해 | Allright 박재훈 플레이리스트 | 헬스장, 헬창 플리",
-     "channel": "쇠맛플레이",
-     "seconds": 4663
+     "id": "THho49pWL0g",
+     "title": "🔥 4시간 풀파워 EDM | 운동할 때 듣는 헬스장 음악 | 4 Hour Gym Workout Music EDM Mix 2025",
+     "channel": "DJ저요",
+     "seconds": 14354
     },
     {
      "id": "XPEKB1a8raY",
      "title": "[Playlist🎧] 하체의 고통이 길이 되고, 그 길 끝에서 힘이 된다. | 하체 운동 전용 플리 | 운동할 때 듣는 노래 | 헬스음악 | 운동음악",
      "channel": "운동은 핑계다",
      "seconds": 3620
+    },
+    {
+     "id": "LUPt5BvDp8Y",
+     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 응 맞아, 헬스장에서 찾던 바로 그 음악 플레이리스트 l 힙디엠 & 쌈뽕 & 노동요",
+     "channel": "perli",
+     "seconds": 37486
+    },
+    {
+     "id": "1v9C1w042Yw",
+     "title": "𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩 💪 \"상대를 잘못 골랐어\"｜헬스할 때 듣는 음악 ⚡ 쇠질 외힙 🔥 전투력 상승 플리",
+     "channel": "Motion Beats",
+     "seconds": 4276
     },
     {
      "id": "33BXLe-GdrI",
@@ -447,16 +447,10 @@
      "seconds": 4011
     },
     {
-     "id": "fu6X37rVKKY",
-     "title": "운동할때 듣는 신나는 노래 모음 🎧 | 아드레날린 폭발하는 1990s 클럽리믹스",
-     "channel": "Club Memories",
-     "seconds": 10556
-    },
-    {
-     "id": "1v9C1w042Yw",
-     "title": "𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩 💪 \"상대를 잘못 골랐어\"｜헬스할 때 듣는 음악 ⚡ 쇠질 외힙 🔥 전투력 상승 플리",
+     "id": "GbwBKPZgRpE",
+     "title": "𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩 💪 \"내 사전에 포기란 없다\"｜헬스할 때 듣는 음악 ⚡ 쇠질 외힙 🔥 전투력 상승 플리",
      "channel": "Motion Beats",
-     "seconds": 4276
+     "seconds": 4446
     },
     {
      "id": "phiNBJB-cG4",
@@ -471,16 +465,22 @@
      "seconds": 7509
     },
     {
+     "id": "fu6X37rVKKY",
+     "title": "운동할때 듣는 신나는 노래 모음 🎧 | 아드레날린 폭발하는 1990s 클럽리믹스",
+     "channel": "Club Memories",
+     "seconds": 10556
+    },
+    {
      "id": "6I-IpCwCrag",
      "title": "[2K/뮤비] 걸그룹(여돌) 댄스곡 3시간 (운동할때 들을 노래) 25.07.12. / 여돌플리 / 운동플리 / 제목, 가사 첨부",
      "channel": "미스타꽁",
      "seconds": 11633
     },
     {
-     "id": "PvGDSYXCBPA",
-     "title": "5 Hour Gym EDM Mix | 헬스장·웨이트·유산소 최강 운동 음악🔥 광고없음",
-     "channel": "DJ저요",
-     "seconds": 17807
+     "id": "d2o88jIcSJg",
+     "title": "🎧 러닝 운동 헬스 신나는 댄스곡  |🔥초고텐션 극강의 댄스비트 🎧✨구독자 6500명 돌파!! 베스트 띵곡모음!!  신나는 댄스곡 플레이 리스트",
+     "channel": "소리별다방 -별빛이 흐르는 뮤직카페",
+     "seconds": 6459
     },
     {
      "id": "5MtZBEK_nRs",
@@ -561,12 +561,6 @@
      "seconds": 3677
     },
     {
-     "id": "GbwBKPZgRpE",
-     "title": "𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩 💪 \"내 사전에 포기란 없다\"｜헬스할 때 듣는 음악 ⚡ 쇠질 외힙 🔥 전투력 상승 플리",
-     "channel": "Motion Beats",
-     "seconds": 4446
-    },
-    {
      "id": "4pTP0GnwC5A",
      "title": "뭐해? 통합본 (1~4) 2시간 연속재생 🔥 운동할때 듣는 음악 │ GYM 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
      "channel": "그누크",
@@ -585,28 +579,22 @@
      "seconds": 4511
     },
     {
-     "id": "q24y9Uu8Ud8",
-     "title": "Workout Music 2025 💪 Fitness & Gym Workout Best Songs Playlist EDM House Music 2025",
-     "channel": "Fitness Motivation Music",
-     "seconds": 4149
-    },
-    {
      "id": "DoICkqrALkE",
      "title": "Best Gym Motivation Songs 2024 🔥 Top Gym Workout Songs 🔥 Best Motivational Music 2024",
      "channel": "Workoutify Records",
      "seconds": 2614
     },
     {
-     "id": "CPAHDJwNCGo",
-     "title": "Best Gym🏋️ Motivation Songs 2024",
-     "channel": "GYM Motivation",
-     "seconds": 1224
-    },
-    {
      "id": "UEZEn4GkFUs",
      "title": "Trap & Rap Gym Workout Music Mix (LilBaby, Kendrick Lamar, Dababy)",
      "channel": "808seoul",
      "seconds": 2525
+    },
+    {
+     "id": "q24y9Uu8Ud8",
+     "title": "Workout Music 2025 💪 Fitness & Gym Workout Best Songs Playlist EDM House Music 2025",
+     "channel": "Fitness Motivation Music",
+     "seconds": 4149
     },
     {
      "id": "gdFkTGQM_Ag",
@@ -621,12 +609,6 @@
      "seconds": 3372
     },
     {
-     "id": "4zokcesUPwY",
-     "title": "Best Gym Music 2026 🔥 Heavy Bass Workout Music for Bodybuilding & Fitness",
-     "channel": "HypeZone Music",
-     "seconds": 3826
-    },
-    {
      "id": "qStUk_7jeTE",
      "title": "Top Motivational Songs 2024 👊 Best Gym Workout Music 💪 Fitness & Gym Motivation Music",
      "channel": "Workout Dope",
@@ -639,10 +621,28 @@
      "seconds": 2968
     },
     {
+     "id": "rHyDv4zB500",
+     "title": "[PLAYLIST] 💀 POP SMOKE ENERGY | Dark Trap Drill Gym Motivation Mix 2025 🔥",
+     "channel": "TRENBOLONE MUSIC ( TREN LEGION )",
+     "seconds": 2819
+    },
+    {
      "id": "ld8nm6rcOm0",
      "title": "Workout Music Mix 2025 💪 Best Gym Music Playlist 🏋️‍♂️ Training Music Playlist 🏃‍♂️ Gym Motivation",
      "channel": "Revive Music",
      "seconds": 4334
+    },
+    {
+     "id": "4zokcesUPwY",
+     "title": "Best Gym Music 2026 🔥 Heavy Bass Workout Music for Bodybuilding & Fitness",
+     "channel": "HypeZone Music",
+     "seconds": 3826
+    },
+    {
+     "id": "Th5HLbkfrBo",
+     "title": "🔥 Metal for Gym | Heavy Industrial Metal Workout Music 🔥",
+     "channel": "RockMan",
+     "seconds": 2061
     },
     {
      "id": "qPGE2KhJUv4",
@@ -651,34 +651,34 @@
      "seconds": 1774
     },
     {
-     "id": "4ev2Wpe1VyQ",
-     "title": "Workout Music 2025 💪 Fitness & Gym Workout Best Songs Playlist EDM House Music 2025",
-     "channel": "Fitness Motivation Music",
-     "seconds": 4301
+     "id": "_JRefJH6N00",
+     "title": "YOU NEED TO OUTWORK EVERYONE - Motivational Speech",
+     "channel": "Ben Lionel Scott",
+     "seconds": 1348
     },
     {
-     "id": "rHyDv4zB500",
-     "title": "[PLAYLIST] 💀 POP SMOKE ENERGY | Dark Trap Drill Gym Motivation Mix 2025 🔥",
-     "channel": "TRENBOLONE MUSIC ( TREN LEGION )",
-     "seconds": 2819
+     "id": "c9gyHqVtQvw",
+     "title": "Hard Rap Workout Mix 2025 💪 Best Gym Hip Hop Music | DJ Noize",
+     "channel": "DJ Noize",
+     "seconds": 3736
     },
     {
-     "id": "hw-xiFZiMb8",
-     "title": "THE GYM BEATS Vol.4.3 - \"THE SHORT CUTS - NONSTOP-MIX\" -  BEST  MUSIC for WORKOUT and MOTIVATION",
-     "channel": "TheGymBeatsOfficial",
-     "seconds": 1804
+     "id": "f5JF5w5qbZo",
+     "title": "Best Workout Music 2026 💪 Fitness & Gym Motivation Mix",
+     "channel": "MAX OAZO",
+     "seconds": 3492
     },
     {
-     "id": "FMkYAwqlBEM",
-     "title": "Best Gym Music 2024 ⚡ Fitness, Gym, Workout music ⚡ Workout Motivation Music 2024",
+     "id": "XV0b3SrJJec",
+     "title": "Best Hip hop & Trap Workout Music Mix 2022 🔥 UlissesWorld Vs Andrei Deiu",
      "channel": "Bodybuilding Music DTV",
-     "seconds": 3175
+     "seconds": 4836
     },
     {
-     "id": "Th5HLbkfrBo",
-     "title": "🔥 Metal for Gym | Heavy Industrial Metal Workout Music 🔥",
-     "channel": "RockMan",
-     "seconds": 2061
+     "id": "9WXsdApQIY4",
+     "title": "1 hour Viking Music for your Workout ( Bodybuilding & Training in the Gym ) by Bjorth",
+     "channel": "Bjorth",
+     "seconds": 3577
     }
    ]
   },
@@ -687,6 +687,12 @@
    "name": "운동",
    "order": 4,
    "videos": [
+    {
+     "id": "647MFsgcKwc",
+     "title": "🎧광고없는 세련되고 감미로운 운동음악 | WORKOUT MUSIC | PLAYLIST",
+     "channel": "Ava Pilates",
+     "seconds": 5422
+    },
     {
      "id": "GQRp5E2gFSQ",
      "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 26년 새해 운동할 때 듣기 좋은 쌈뽕한 팝송들",
@@ -698,6 +704,12 @@
      "title": "#108 🔥2023 운동할 때 듣는 믹셋!🔥 찐 헬스장에서 트는 믹셋!  (feat.반포동 잼짐)| 2023 GYM MUSIC | DJ SURA (수라)",
      "channel": "수라 월드 SURA WORLD",
      "seconds": 4107
+    },
+    {
+     "id": "R2siuO7m1xk",
+     "title": "너 유산소 40분 달리라고 만들었어",
+     "channel": "멍플리 ᴍᴜɴɢᴘʟʏ",
+     "seconds": 2400
     },
     {
      "id": "UromFubpW0Q",
@@ -730,16 +742,16 @@
      "seconds": 2653
     },
     {
-     "id": "gw7vvY_nmXE",
-     "title": "2026 CLUB MIX🔥 듣자마자 텐션 터지는 클럽노래 | 운동할때 좋은 EDM 플레이리스트",
-     "channel": "perli",
-     "seconds": 26005
-    },
-    {
      "id": "sAphP_KZkHE",
      "title": "[남돌 다이어트 댄스 모음] 실제 후기가 가득한 다이어트댄스, 딱 2주만 도전 해보세요 🔥",
      "channel": "흥둥이",
      "seconds": 1330
+    },
+    {
+     "id": "gw7vvY_nmXE",
+     "title": "2026 CLUB MIX🔥 듣자마자 텐션 터지는 클럽노래 | 운동할때 좋은 EDM 플레이리스트",
+     "channel": "perli",
+     "seconds": 26005
     },
     {
      "id": "AJaql4gWuBI",
@@ -766,10 +778,10 @@
      "seconds": 7252
     },
     {
-     "id": "6cTRaNji96k",
-     "title": "[KPOP Playlist] 운동 할 때 듣기 좋은 케이팝 플레이리스트 ➁",
-     "channel": "김로라",
-     "seconds": 5100
+     "id": "5U667t83ofs",
+     "title": "신나는 댄스 히트곡 연속 듣기, 90년 2000년대 댄스곡, 운동할때 듣는 신나는 음악, 운전할때 듣는 화려한 노래",
+     "channel": "음악예술단 사노라면",
+     "seconds": 2955
     },
     {
      "id": "dp0eiOzWN4Y",
@@ -778,22 +790,34 @@
      "seconds": 18130
     },
     {
+     "id": "2vbFDXYC0C8",
+     "title": "댄스곡 노래모음 - 누구나 좋아 하는 신나는 댄스 댄스 곡 - 광고없는 90년대 댄스곡 💥 슬퍼지려 하기전에 , 편지 , 잘못된 만남 , 실연 ,  흔들린우정",
+     "channel": "신나는 노래 모음 90-2000",
+     "seconds": 3692
+    },
+    {
+     "id": "qBhHucqxff0",
+     "title": "2010년대 아이돌 댄스곡 모음, 2010년대에 히트했던 아이돌 가수의 신나는 댄스음악 40곡 연속듣기, 기분좋을때 들으면 더욱 신나는 음악, 보고듣는 소울뮤직TV",
+     "channel": "소울뮤직TV",
+     "seconds": 9198
+    },
+    {
      "id": "gjCf778tvUM",
      "title": "[Playlist🎧] 꾸준함은 실패마저 발판으로 만든다. | 어깨운동 전용 플리 | 운동할 때 듣는 노래 | 헬스음악 | 운동음악",
      "channel": "운동은 핑계다",
      "seconds": 3579
     },
     {
-     "id": "5U667t83ofs",
-     "title": "신나는 댄스 히트곡 연속 듣기, 90년 2000년대 댄스곡, 운동할때 듣는 신나는 음악, 운전할때 듣는 화려한 노래",
-     "channel": "음악예술단 사노라면",
-     "seconds": 2955
+     "id": "Db63h6RQEbE",
+     "title": "Best songs that make you dance 2024 🍧 Dance playlist 2024 ~ Songs to sing & dance",
+     "channel": "Love Life Lyrics",
+     "seconds": 4015
     },
     {
-     "id": "f5JF5w5qbZo",
-     "title": "Best Workout Music 2026 💪 Fitness & Gym Motivation Mix",
-     "channel": "MAX OAZO",
-     "seconds": 3492
+     "id": "4ev2Wpe1VyQ",
+     "title": "Workout Music 2025 💪 Fitness & Gym Workout Best Songs Playlist EDM House Music 2025",
+     "channel": "Fitness Motivation Music",
+     "seconds": 4301
     },
     {
      "id": "r_VHltdyvv4",
@@ -808,10 +832,10 @@
      "seconds": 2466
     },
     {
-     "id": "Db63h6RQEbE",
-     "title": "Best songs that make you dance 2024 🍧 Dance playlist 2024 ~ Songs to sing & dance",
-     "channel": "Love Life Lyrics",
-     "seconds": 4015
+     "id": "MuTQslYwOWs",
+     "title": "Workout Music 2025 💪 Fitness & Gym Workout Best Songs Playlist EDM House Music 2025",
+     "channel": "Fitness Motivation Music",
+     "seconds": 4161
     },
     {
      "id": "K_RTY8v4qQQ",
@@ -820,34 +844,10 @@
      "seconds": 4213
     },
     {
-     "id": "MuTQslYwOWs",
-     "title": "Workout Music 2025 💪 Fitness & Gym Workout Best Songs Playlist EDM House Music 2025",
-     "channel": "Fitness Motivation Music",
-     "seconds": 4161
-    },
-    {
-     "id": "OSg_uAGS9uw",
-     "title": "20 MIN SABRINA CARPENTER HIIT to the Beat | Full Body Home Workout, No Equipment",
-     "channel": "growingannanas",
-     "seconds": 1315
-    },
-    {
-     "id": "Ncu0A9dtieU",
-     "title": "1.5 Hours of EDM Workout Motivation Mix 🔥 1.5 Hours of Best Music for Gym, Fitness, Running",
-     "channel": "Epidemic Electronic",
-     "seconds": 5505
-    },
-    {
-     "id": "S-N2ntxxnnQ",
-     "title": "Workout Music 2026 🔥 Fitness & Gym Motivation Mix | Best Deep House Music by Max Oazo",
-     "channel": "MAX OAZO",
-     "seconds": 3745
-    },
-    {
-     "id": "vj8oL7gGLqM",
-     "title": "Obsessive—Rock Workout Music 2026🔥 | Gym Motivation Playlist 🎧",
-     "channel": "Obsessive Mindset ",
-     "seconds": 1678
+     "id": "hw-xiFZiMb8",
+     "title": "THE GYM BEATS Vol.4.3 - \"THE SHORT CUTS - NONSTOP-MIX\" -  BEST  MUSIC for WORKOUT and MOTIVATION",
+     "channel": "TheGymBeatsOfficial",
+     "seconds": 1804
     },
     {
      "id": "XE5dw45glgI",
@@ -856,16 +856,28 @@
      "seconds": 1743
     },
     {
-     "id": "d8OL6m0ZblA",
-     "title": "1 Hour of Pop Workout Songs ♫",
-     "channel": "Epidemic Pop",
-     "seconds": 3672
+     "id": "fznHWdZR7bQ",
+     "title": "Workout Music 2025 💪 Nonstop EDM House Mix | Motivation for Every Session",
+     "channel": "Girls Beast Mode",
+     "seconds": 2198
     },
     {
-     "id": "vhhI6k4SSek",
-     "title": "Workout Sunset Rave @Bali Rooftop Gym 🔥 I Uplifting Tech House/Techno I No Warm-up & No Excuses",
-     "channel": "Val Baker I DJ ",
-     "seconds": 3540
+     "id": "CP5JauSVu6M",
+     "title": "🔥 𝐖𝐎𝐑𝐊𝐎𝐔𝐓 𝐌𝐔𝐒𝐈𝐂 2026 💥 𝗚𝘆𝗺 𝗠𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 𝗕𝗮𝗻𝗴𝗲𝗿𝘀 💪 𝗣𝗼𝘄𝗲𝗿 𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗛𝗶𝘁𝘀 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 #151",
+     "channel": "𝙋𝙐𝙇𝙎𝙀 & 𝘽𝘼𝙎𝙎",
+     "seconds": 2762
+    },
+    {
+     "id": "rC3BLvq4akY",
+     "title": "ULTIMATE🔥 RAP ROCK GYM MIXWorkout💪Motivation Music | No Limits,No Excuses",
+     "channel": "Mind Spark USA ",
+     "seconds": 1501
+    },
+    {
+     "id": "Ncu0A9dtieU",
+     "title": "1.5 Hours of EDM Workout Motivation Mix 🔥 1.5 Hours of Best Music for Gym, Fitness, Running",
+     "channel": "Epidemic Electronic",
+     "seconds": 5505
     }
    ]
   },
@@ -879,6 +891,12 @@
      "title": "Cafe Playlist ☕ 여름의 카페 분위기를 만들어주는 음악 🌿 Chill Cafe Music",
      "channel": "cherry cafe music",
      "seconds": 14103
+    },
+    {
+     "id": "ZgpI7e5Rpns",
+     "title": "일하면서 듣기 좋은 카페음악  #1 🎧 생각 없이 틀어만 놓으세요 500만뷰",
+     "channel": "브금박스",
+     "seconds": 3778
     },
     {
      "id": "bKgTNAatuYc",
@@ -899,16 +917,10 @@
      "seconds": 12851
     },
     {
-     "id": "ZgpI7e5Rpns",
-     "title": "일하면서 듣기 좋은 카페음악  #1 🎧 생각 없이 틀어만 놓으세요 500만뷰",
-     "channel": "브금박스",
-     "seconds": 3778
-    },
-    {
-     "id": "r3WQxP_bqzE",
-     "title": "Cafe Playlist ☕ 여름 바다 카페에서 듣기 좋은 시원한 음악 🌊 Chill Cafe Music",
+     "id": "zMvomwFfx44",
+     "title": "Cafe Playlist ☕ 요즘 카페에서 하루 종일 듣기 좋은 잔잔한 음악 🌿 Chill Cafe Music",
      "channel": "cherry cafe music",
-     "seconds": 15196
+     "seconds": 12760
     },
     {
      "id": "PSE7RO8lrNs",
@@ -917,16 +929,10 @@
      "seconds": 14268
     },
     {
-     "id": "zMvomwFfx44",
-     "title": "Cafe Playlist ☕ 요즘 카페에서 하루 종일 듣기 좋은 잔잔한 음악 🌿 Chill Cafe Music",
+     "id": "r3WQxP_bqzE",
+     "title": "Cafe Playlist ☕ 여름 바다 카페에서 듣기 좋은 시원한 음악 🌊 Chill Cafe Music",
      "channel": "cherry cafe music",
-     "seconds": 12760
-    },
-    {
-     "id": "StQadSlzKlc",
-     "title": "Cafe Playlist ☕가을 감성 가득한 카페에서 듣기 좋은 음악 🎶🍂",
-     "channel": "cherry cafe music",
-     "seconds": 13469
+     "seconds": 15196
     },
     {
      "id": "c3S-1DqiLes",
@@ -941,6 +947,12 @@
      "seconds": 13921
     },
     {
+     "id": "StQadSlzKlc",
+     "title": "Cafe Playlist ☕가을 감성 가득한 카페에서 듣기 좋은 음악 🎶🍂",
+     "channel": "cherry cafe music",
+     "seconds": 13469
+    },
+    {
      "id": "lVChkOLdYJA",
      "title": "(🏆350만뷰)고급카페에서 나오는 음악  | 6시간 연속 재생 · 중간광고  · 중복음악· 저작권없음🔕",
      "channel": "Lofi Brew",
@@ -953,34 +965,52 @@
      "seconds": 37308
     },
     {
-     "id": "HeBBfvBkK7I",
-     "title": "☀️ 틀어두면 분위기 좋아지는 카페 팝송 | Cozy Cafe Pop Playlist | 카페에서 듣기좋은 노래",
-     "channel": "Soul Cafe",
-     "seconds": 5737
-    },
-    {
      "id": "t9yknVG9G20",
      "title": "🍀8월, 커피 마시면서 혼자 들었더니 이 노래 정말 좋다 ☕ 여름 바다 카페에서 듣는 7080 추억의 올드팝 명곡모음 🎧",
      "channel": "행운을담은 올드팝  ",
      "seconds": 5151
     },
     {
-     "id": "fTJ2p6g7JI4",
-     "title": "Cafe Playlist ☕ 카페에서 듣기 좋은 잔잔한 봄 플레이리스트 🌸 Chill Cafe Music",
-     "channel": "cherry cafe music",
-     "seconds": 11130
+     "id": "HeBBfvBkK7I",
+     "title": "☀️ 틀어두면 분위기 좋아지는 카페 팝송 | Cozy Cafe Pop Playlist | 카페에서 듣기좋은 노래",
+     "channel": "Soul Cafe",
+     "seconds": 5737
     },
     {
-     "id": "riMgzQ7B4JA",
-     "title": "비 오는 날 카페에서 듣기 좋은 추억의 노래 | 계속 듣게 되는 7080 라디오 감성 올드팝",
-     "channel": "morgellia(모르겔리아)",
-     "seconds": 9952
+     "id": "UeQqhYRPr0g",
+     "title": "Cafe Playlist 🌴 일하면서 듣기 좋은 여름 카페음악 | 중간광고없음 ☕",
+     "channel": "cherry cafe music",
+     "seconds": 13857
+    },
+    {
+     "id": "FeMBhPyDV3o",
+     "title": "여름 플리 이걸로 끝!☀️ 일하면서 듣기 좋은 카페음악 중간광고없음 (인기많던 첫곡모음) 🧊 Design making tutorial",
+     "channel": "Blue rain",
+     "seconds": 8261
     },
     {
      "id": "iOJXeCdkRYw",
      "title": "느좋 플리 그자체 ☕ 카페에서 듣기 좋은 노래 광고없는 팝송 3시간 chill cafe music",
      "channel": "Blue rain",
      "seconds": 11557
+    },
+    {
+     "id": "86gToHFkbiU",
+     "title": "💓스타벅스 매장음악 ( 중간광고없음❗️) / Starbucks Jazz Piano Music / 카페음악, 매장음악, 라운지음악",
+     "channel": "MONKEY BGM",
+     "seconds": 23458
+    },
+    {
+     "id": "N-vJCts8qhg",
+     "title": "Cafe Playlist ☕ 여름날 카페에서 듣기 좋은 시원한 음악 🌿 Chill Cafe Playlist",
+     "channel": "cherry cafe music",
+     "seconds": 11591
+    },
+    {
+     "id": "GpIVSUmCO54",
+     "title": "Cafe Playlist ☕ 여름, 카페에서 들으면 더 시원해지는 음악 🌊 Chill Cafe Music",
+     "channel": "cherry cafe music",
+     "seconds": 14032
     },
     {
      "id": "XcWGMS647zk",
@@ -993,24 +1023,6 @@
      "title": "[Playlist] 여름향기 가득한 카페에서 듣기 좋은 음악 | 잔잔한 감성팝 카페음악 🎧 | Healing lo-fi pop ballad cafe music | 여름 플레이리스트",
      "channel": "낡은 레코드",
      "seconds": 4673
-    },
-    {
-     "id": "UeQqhYRPr0g",
-     "title": "Cafe Playlist 🌴 일하면서 듣기 좋은 여름 카페음악 | 중간광고없음 ☕",
-     "channel": "cherry cafe music",
-     "seconds": 13857
-    },
-    {
-     "id": "GpIVSUmCO54",
-     "title": "Cafe Playlist ☕ 여름, 카페에서 들으면 더 시원해지는 음악 🌊 Chill Cafe Music",
-     "channel": "cherry cafe music",
-     "seconds": 14032
-    },
-    {
-     "id": "86gToHFkbiU",
-     "title": "💓스타벅스 매장음악 ( 중간광고없음❗️) / Starbucks Jazz Piano Music / 카페음악, 매장음악, 라운지음악",
-     "channel": "MONKEY BGM",
-     "seconds": 23458
     },
     {
      "id": "gT3EkJDgYJI",
@@ -1055,16 +1067,22 @@
      "seconds": 37832
     },
     {
+     "id": "ogxHV2lmhJU",
+     "title": "Playlist | 여름 카페 재즈로 기분 UP 텐션 UP ☕💕 | 신나는 리듬감의 Cool하고 상쾌한 카페 음악 | 작업, 집중, 공부 ✍️ | Cafe Jazz Music",
+     "channel": "JazzNe",
+     "seconds": 10818
+    },
+    {
      "id": "c_j1DlJblGs",
      "title": "[𝐒𝐔𝐍𝐒𝐇𝐈𝐍𝐄 𝐉𝐀𝐙𝐙] 오늘은 기분이 좋아~ 랄랄라랄랄랄랄라🎵😎 l 기분좋은 아침, 재즈와 함께💖 l Relaxing Jazz Piano Music",
      "channel": "MONKEY BGM",
      "seconds": 24101
     },
     {
-     "id": "ogxHV2lmhJU",
-     "title": "Playlist | 여름 카페 재즈로 기분 UP 텐션 UP ☕💕 | 신나는 리듬감의 Cool하고 상쾌한 카페 음악 | 작업, 집중, 공부 ✍️ | Cafe Jazz Music",
-     "channel": "JazzNe",
-     "seconds": 10818
+     "id": "OC4515g_f7Y",
+     "title": "[Playlist] 시원한 여름 보내는 법! 내공 100 드립니다💚 (중간광고없음❌) Relaxing Summer Jazz Instrumental, 카페음악, 매장음악",
+     "channel": "MONKEY BGM",
+     "seconds": 36863
     },
     {
      "id": "twu9XK7sNgo",
@@ -1073,28 +1091,22 @@
      "seconds": 37207
     },
     {
+     "id": "rqCKDANAGj8",
+     "title": "Playlist | 이 재즈 틀었더니 여기가 카페 ☕💕 | 여유롭고 기분 좋은 리듬 감성 재즈 BGM | 카페, 매장 | Cafe Jazz",
+     "channel": "JazzNe",
+     "seconds": 10126
+    },
+    {
      "id": "aUTxQD9Rgn8",
      "title": "[Playlist] 얼마나 시원할지 감도 안오는 여름맛 재즈플리💙 Summer Jazz (중간광고없음❌, 카페음악, 매장음악)",
      "channel": "MONKEY BGM",
      "seconds": 36744
     },
     {
-     "id": "rqCKDANAGj8",
-     "title": "Playlist | 카페 재즈와 함께 시작하는 기분 좋은 하루 ☕🍞 | 편안한 리듬의 부드러운 감성 재즈 BGM | 카페, 매장 | Cafe Jazz",
-     "channel": "JazzNe",
-     "seconds": 10126
-    },
-    {
      "id": "BcbmFxbdsJ0",
      "title": "☕️ 뭐지? 나 스타벅스 언제왔지? 🤭 l 중간 광고 없는❗️ 매장 음악, 카페 음악 l starbucks jazz piano music",
      "channel": "MONKEY BGM",
      "seconds": 21791
-    },
-    {
-     "id": "OC4515g_f7Y",
-     "title": "[Playlist] 시원한 여름 보내는 법! 내공 100 드립니다💚 (중간광고없음❌) Relaxing Summer Jazz Instrumental, 카페음악, 매장음악",
-     "channel": "MONKEY BGM",
-     "seconds": 36863
     },
     {
      "id": "loCc6eGq1_c",
@@ -1107,12 +1119,6 @@
      "title": "두바이 스타벅스 매장음악 카페 피아노 재즈 ☕🎹✨카페브금 |  프리미엄 고급 카페 음악과 비즈니스 라운지 BGM  | 가사없는 피아노 연주 | 일할 때 | 공부할 때 힐링 노동요",
      "channel": "Jazz Cafe Core",
      "seconds": 40826
-    },
-    {
-     "id": "xx7xWjVanI0",
-     "title": "Playlist | 과즙 가득한 상큼한 여름 재즈 🍑☀️ | 듣기만해도 저절로 시원해지는 여름 감성 BGM | 매장, 카페 | Summer Jazz",
-     "channel": "JazzNe",
-     "seconds": 10255
     },
     {
      "id": "nWPYl1itk2g",
@@ -1139,10 +1145,10 @@
      "seconds": 36829
     },
     {
-     "id": "JwvUvKeSYS8",
-     "title": "[Playlist] 아침부터 재즈 한그릇 말아먹어볼까나🤍 듣자마자 기분 좋아지는 모닝재즈플리 ⎮ Morning Jazz Piano Instrumental Music",
-     "channel": "MONKEY BGM",
-     "seconds": 38175
+     "id": "4oMdAM5x3nM",
+     "title": "Playlist | 상쾌한 여름 재즈와 함께🌞 | Fresh Summer Jazz",
+     "channel": "JazzNe",
+     "seconds": 38133
     },
     {
      "id": "TbhcfUPYKEU",
@@ -1151,10 +1157,16 @@
      "seconds": 22816
     },
     {
-     "id": "4oMdAM5x3nM",
-     "title": "Playlist | 상쾌한 여름 재즈와 함께🌞 | Fresh Summer Jazz",
+     "id": "9YO6WtE8MC8",
+     "title": "Playlist | 화창한 여름엔 상큼한 재즈가 최고잖아 🍋☀️ | 시원하고 경쾌한 청량 여름 재즈 BGM | 카페, 매장 ✍🏻 | Summer Jazz",
      "channel": "JazzNe",
-     "seconds": 38133
+     "seconds": 11478
+    },
+    {
+     "id": "hOJ76cZEt08",
+     "title": "[ 𝐍𝐈𝐆𝐇𝐓 𝐉𝐀𝐙𝐙 ] 저녁에 듣기 좋은 잔잔한 재즈플레이리스트🌃 l Romantic Jazz, Relaxing Jazz Piano Music for Good Mood🌠",
+     "channel": "MONKEY BGM",
+     "seconds": 24243
     },
     {
      "id": "qj9NFFvJ7o4",
@@ -1211,12 +1223,6 @@
      "seconds": 3736
     },
     {
-     "id": "3SGNtFQ1v3M",
-     "title": "Chill Jazz 🎼 Smooth Jazz Music",
-     "channel": "Jazzip",
-     "seconds": 7490
-    },
-    {
      "id": "8cN7LWGO-gE",
      "title": "Positive JAZZ - Morning Music To Start The Day",
      "channel": "Lounge Music",
@@ -1227,6 +1233,12 @@
      "title": "New York Jazz Lounge - Bar Jazz Classics | Vintage Cafe Jazz & Relaxing Background Instrumentals",
      "channel": "Jazz and Blues Experience",
      "seconds": 2990
+    },
+    {
+     "id": "3SGNtFQ1v3M",
+     "title": "Chill Jazz 🎼 Smooth Jazz Music",
+     "channel": "Jazzip",
+     "seconds": 7490
     },
     {
      "id": "-EdRTo61T84",
@@ -1254,16 +1266,16 @@
      "seconds": 12250
     },
     {
-     "id": "FbN-l1GR1o0",
-     "title": "비 오는 날 듣기 좋은 잔잔한 팝송 모음 🌧️ | 장마철 감성 플레이리스트 🌿 · Rainy Day Playlist",
-     "channel": "SISO Wave",
-     "seconds": 8136
-    },
-    {
      "id": "SNJbQ1SM6TU",
      "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 ☔피할 수 없다면 즐겨라 '장맛비' 내릴때 듣는 노래 모음｜이클립스, 윤하, 헤이즈｜Stone Music Playlist",
      "channel": "STONE MUSIC",
      "seconds": 3840
+    },
+    {
+     "id": "FbN-l1GR1o0",
+     "title": "비 오는 날 듣기 좋은 잔잔한 팝송 모음 🌧️ | 장마철 감성 플레이리스트 🌿 · Rainy Day Playlist",
+     "channel": "SISO Wave",
+     "seconds": 8136
     },
     {
      "id": "KU4BJXPS3X0",
@@ -1278,16 +1290,22 @@
      "seconds": 2436
     },
     {
+     "id": "fG0GudU56S0",
+     "title": "[PLAYLIST] 비 오는 날 계속 듣게 되는 발라드 7곡 ☔ | 감성발라드 · 사랑노래 · 여름 플레이리스트",
+     "channel": "뮤직앤라이트 Music&Light",
+     "seconds": 1675
+    },
+    {
      "id": "sN1Iz64nuxo",
      "title": "☔️[PLAYLIST] 비 오는 날 듣기 좋은 추억의 비 노래 l 이햇사레 감성 커버 ☔️",
      "channel": "이햇사레cover",
      "seconds": 1676
     },
     {
-     "id": "fG0GudU56S0",
-     "title": "[PLAYLIST] 비 오는 날 계속 듣게 되는 발라드 7곡 ☔ | 감성발라드 · 사랑노래 · 여름 플레이리스트",
-     "channel": "뮤직앤라이트 Music&Light",
-     "seconds": 1675
+     "id": "riMgzQ7B4JA",
+     "title": "비 오는 날 카페에서 듣기 좋은 추억의 노래 | 계속 듣게 되는 7080 라디오 감성 올드팝",
+     "channel": "morgellia(모르겔리아)",
+     "seconds": 9952
     },
     {
      "id": "Yc03GLbJ51U",
@@ -1326,10 +1344,10 @@
      "seconds": 3784
     },
     {
-     "id": "e5FYnMwQDoc",
-     "title": "☔ 비오는날 듣기 좋은 노래, 그냥 틀어두기 좋은 카페 팝송 | Rainy Day Pop",
-     "channel": "Soul Cafe",
-     "seconds": 11916
+     "id": "E-RFxrJ5AOY",
+     "title": "Playlist | 비 오는 날 ☔ 마음을 촉촉하게 적시는 차분한 감성 재즈 모음 l Relaxing Jazz Music",
+     "channel": "JazzNe",
+     "seconds": 10044
     },
     {
      "id": "34M2Q7SAyAE",
@@ -1338,28 +1356,22 @@
      "seconds": 1458
     },
     {
-     "id": "E-RFxrJ5AOY",
-     "title": "Playlist | 비 오는 날 ☔ 마음을 촉촉하게 적시는 차분한 감성 재즈 모음 l Relaxing Jazz Music",
-     "channel": "JazzNe",
-     "seconds": 10044
-    },
-    {
      "id": "OVJ-LHm_mZo",
      "title": "PLayLiST 💧 캠핑장 텐트를 울리는 빗소리처럼 감성터지는 비노래 플레이리스트 | 비 내리는 캠핑장에서 불멍 비멍할때 듣기좋은 잔잔한 캠핑송 레인송 모음",
      "channel": "음악의발견",
      "seconds": 6221
     },
     {
-     "id": "HbQBbVuceoE",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 비오는날, 카페에서 하루종일 듣기좋은 팝송 𝟏𝟎시간 (중간광고없음) ☕🌧️ 기분 좋아지는 플레이리스트 🎵",
-     "channel": "With Lofi Cafe",
-     "seconds": 36697
+     "id": "e5FYnMwQDoc",
+     "title": "☔ 비오는날 듣기 좋은 노래, 그냥 틀어두기 좋은 카페 팝송 | Rainy Day Pop",
+     "channel": "Soul Cafe",
+     "seconds": 11916
     },
     {
-     "id": "BeFs8XjHr70",
-     "title": "비 오는 거리의 재즈 | Jazz for Rainy Days 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
-     "channel": "roveeu",
-     "seconds": 36181
+     "id": "bp7r9XVS5QY",
+     "title": "Playlist | 비 오는 날 듣기 좋은 포근한 재즈 ☔💕 | 마음을 편안하게 채워주는 부드러운 감성 재즈 BGM | 매장, 카페 | Rain Jazz",
+     "channel": "JazzNe",
+     "seconds": 11647
     },
     {
      "id": "xym-gmq_rlw",
@@ -1374,18 +1386,6 @@
      "seconds": 14640
     },
     {
-     "id": "bp7r9XVS5QY",
-     "title": "Playlist | 비 오는 날 듣기 좋은 포근한 재즈 ☔💕 | 마음을 편안하게 채워주는 부드러운 감성 재즈 BGM | 매장, 카페 | Rain Jazz",
-     "channel": "JazzNe",
-     "seconds": 11647
-    },
-    {
-     "id": "8Z3hEwVsy-k",
-     "title": "🌧 비오는날 듣기 좋은 재즈 l Rainy Jazz 🎶 l ☕️ 카페음악 l Relaxing Jazz l 감성재즈",
-     "channel": "지니도비지엠 Jinido bgm",
-     "seconds": 37708
-    },
-    {
      "id": "DDuXSR2Y8Ds",
      "title": "Chill Rainy Jazz at Night in NYC 🗽 Soft Jazz Piano with Rain Sounds for Peaceful Moments",
      "channel": "Cozy Cafe Ambience",
@@ -1398,16 +1398,28 @@
      "seconds": 14146
     },
     {
+     "id": "TgrZPdKOYdU",
+     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 🎧 몽글몽글 잔잔한 빗소리와 Lo-fi jazz 🌧️ 그냥 가만히 듣고 싶을 때, 집중·새벽·공부 BGM",
+     "channel": "jazzgak.",
+     "seconds": 8542
+    },
+    {
      "id": "UJvuvSPvfv8",
      "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 🎧 차분한 빗소리가 필요한 날, 몽환적인 Lo-fi Jazz 🌨️ 집중·공부·독서 BGM",
      "channel": "jazzgak.",
      "seconds": 8542
     },
     {
-     "id": "TgrZPdKOYdU",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 🎧 몽글몽글 잔잔한 빗소리와 Lo-fi jazz 🌧️ 그냥 가만히 듣고 싶을 때, 집중·새벽·공부 BGM",
-     "channel": "jazzgak.",
-     "seconds": 8542
+     "id": "f53IfTNO-LA",
+     "title": "10시간 빗소리와 듣는 잔잔한 재즈🎵 수면유도음악 , 휴식음악, 공부할때 , 집중할때 듣는 음악 l Jazz & Rain",
+     "channel": "뮤직타워 Music Tower",
+     "seconds": 36521
+    },
+    {
+     "id": "2-2PFPlRBTw",
+     "title": "[Playlist] 빗소리와 함께 듣는 동양풍 사극 플리 | 빗소리asmr | 천둥소리",
+     "channel": "FM61.6",
+     "seconds": 5884
     },
     {
      "id": "E1cOhXvO5Qs",
@@ -1422,22 +1434,16 @@
      "seconds": 3890
     },
     {
-     "id": "f53IfTNO-LA",
-     "title": "10시간 빗소리와 듣는 잔잔한 재즈🎵 수면유도음악 , 휴식음악, 공부할때 , 집중할때 듣는 음악 l Jazz & Rain",
-     "channel": "뮤직타워 Music Tower",
-     "seconds": 36521
-    },
-    {
      "id": "mesRhn_OWA8",
      "title": "Playlist l 내가 사랑하는 영화 속 재즈 🎬 l Relaxing Jazz for Working, Studying, Focusing",
      "channel": "JazzNe",
      "seconds": 36327
     },
     {
-     "id": "wjDw77r-tMw",
-     "title": "빗소리+재즈☂️비오는 날 감성에 젖어드는 재즈음악 (타닥타닥 빗소리asmr)",
-     "channel": "Wooden Chair 우든체어",
-     "seconds": 15131
+     "id": "ru-O5L2uxho",
+     "title": "[Piano ASMR] 3시간 연속듣기 | 빗소리와 함께 듣는 피아노 | 시청각 ASMR | Piano Music & Rain Sounds",
+     "channel": "소디의 음악공방 SodyPiano",
+     "seconds": 10954
     },
     {
      "id": "ARSq6GFSLGY",
@@ -1446,28 +1452,10 @@
      "seconds": 38474
     },
     {
-     "id": "Y6G9ojbvxdk",
-     "title": "[비 내리는 밤, 감성의 재즈와 모닥불 소리] 8시간 / 분위기 있는",
-     "channel": "지구의 소리 담기",
-     "seconds": 30277
-    },
-    {
-     "id": "2-2PFPlRBTw",
-     "title": "[Playlist] 빗소리와 함께 듣는 동양풍 사극 플리 | 빗소리asmr | 천둥소리",
-     "channel": "FM61.6",
-     "seconds": 5884
-    },
-    {
      "id": "B1BNCPSWJjk",
      "title": "비 오는 카페에서 공부하는 시간 | 빗소리 + 재즈 ASMR로 집중하기 | Study deeper while the rain meets jazz",
      "channel": "봄비's 엔터",
      "seconds": 36045
-    },
-    {
-     "id": "ImB5JWEqgck",
-     "title": "[광고] 멍 때릴 때 그냥 틀어 두세요｜빗소리와 벽난로 재즈 1시간 연속 Playlist #빗소리 #벽난로 #재즈플레이리스트 #힐링음악 #휴식음악 #1시간플레이리스트",
-     "channel": "황금여울(金灘) Golden Brook",
-     "seconds": 3817
     },
     {
      "id": "gZqkSSqBa-8",
@@ -1476,10 +1464,16 @@
      "seconds": 28800
     },
     {
-     "id": "LPKJh1eVhlE",
-     "title": "일할 때 듣는 빗소리 재즈 / 마음이 차분해 지는 빗소리",
-     "channel": "레인뮤즈 RainMuse",
-     "seconds": 10801
+     "id": "Z_4lQc_r7z8",
+     "title": "당신을 위로하는 빗소리와 잔잔한 피아노 [10시간] | 빗소리 수면음악",
+     "channel": "one music for sleep",
+     "seconds": 36463
+    },
+    {
+     "id": "S6nmkmaEReA",
+     "title": "런던 타워브리지가 보이는 방에서 듣는 빗소리 + 재즈 2시간 │Rainy day in London & Jazz",
+     "channel": "Palm Tree Sound",
+     "seconds": 7108
     },
     {
      "id": "phRZKH1tQsQ",
@@ -1488,22 +1482,34 @@
      "seconds": 10693
     },
     {
+     "id": "ImB5JWEqgck",
+     "title": "[광고] 멍 때릴 때 그냥 틀어 두세요｜빗소리와 벽난로 재즈 1시간 연속 Playlist #빗소리 #벽난로 #재즈플레이리스트 #힐링음악 #휴식음악 #1시간플레이리스트",
+     "channel": "황금여울(金灘) Golden Brook",
+     "seconds": 3817
+    },
+    {
+     "id": "WEP5RV86r_M",
+     "title": "Soft Jazz Relaxing Music 🍁☕️ Cozy Autumn Coffee Shop Ambience with Rain Sounds to Work, Focus, Study",
+     "channel": "Rain Rhythms",
+     "seconds": 11409
+    },
+    {
+     "id": "f6Terj7casU",
+     "title": "부드러운 빗소리와 잔잔한 재즈,  비오는날 듣는 재즈, 공부 독서 음악 1시간｜Rain Sounds & Relaxing Jazz Music",
+     "channel": "Now Focus Time",
+     "seconds": 3637
+    },
+    {
+     "id": "LPKJh1eVhlE",
+     "title": "일할 때 듣는 빗소리 재즈 / 마음이 차분해 지는 빗소리",
+     "channel": "레인뮤즈 RainMuse",
+     "seconds": 10801
+    },
+    {
      "id": "vJmv4R3mBM8",
      "title": "Playlist | 비오는 날 듣기 좋은, 재즈 모음🌧️ | Rain Jazz",
      "channel": "JazzNe",
      "seconds": 38777
-    },
-    {
-     "id": "wf4AoGYsZys",
-     "title": "Rainy Jazz with Relaxing Jazz Music - Coffee Time Ambience & Rain Sounds for Sleep, Study, Focus",
-     "channel": "Cozy Rain",
-     "seconds": 29248
-    },
-    {
-     "id": "sSmFBQIyXyE",
-     "title": "Cozy Coffee Shop on a Rainy Day 🍂 Soft Jazz for Relaxation, Study, Work & Calm Nights #8",
-     "channel": "Cozy Jazz Tunes",
-     "seconds": 11641
     },
     {
      "id": "0L38Z9hIi5s",
@@ -1518,22 +1524,28 @@
      "seconds": 36547
     },
     {
-     "id": "N2m4RFhCqKg",
-     "title": "(No Ads) Rain and Soft Piano for Healing Sleep – Relaxing Music to Calm the Mind and Soothe the Soul",
-     "channel": "Relaxing Piano",
-     "seconds": 10923
+     "id": "sSmFBQIyXyE",
+     "title": "Cozy Coffee Shop on a Rainy Day 🍂 Soft Jazz for Relaxation, Study, Work & Calm Nights #8",
+     "channel": "Cozy Jazz Tunes",
+     "seconds": 11641
     },
     {
-     "id": "6WXMivVkiR8",
-     "title": "Rainy Day at Cozy Coffee Shop with Relaxing Jazz Music, Fireplace and Rain Sounds",
-     "channel": "Coffee Shop Vibes",
-     "seconds": 13034
+     "id": "wf4AoGYsZys",
+     "title": "Rainy Jazz with Relaxing Jazz Music - Coffee Time Ambience & Rain Sounds for Sleep, Study, Focus",
+     "channel": "Cozy Rain",
+     "seconds": 29248
     },
     {
      "id": "mkgylOJSdhE",
      "title": "RAINY DAY COFFEE SHOP AMBIENCE: Piano Music and Rain Sounds With Distant Thunder",
      "channel": "Autumn Cozy",
      "seconds": 10811
+    },
+    {
+     "id": "N2m4RFhCqKg",
+     "title": "(No Ads) Rain and Soft Piano for Healing Sleep – Relaxing Music to Calm the Mind and Soothe the Soul",
+     "channel": "Relaxing Piano",
+     "seconds": 10923
     },
     {
      "id": "JElyhCKzhWI",
@@ -1591,10 +1603,10 @@
      "seconds": 11091
     },
     {
-     "id": "DXB84VgBP18",
-     "title": "1시간 잔잔한 수면음악 + 풀벌레소리 🎵 스트레스 해소음악, 잠잘때 듣는 음악, 불면증치료음악, 수면유도음악 (My Dream)",
+     "id": "nsvYJQTFjmE",
+     "title": "10시간 포근한 수면음악 🎵 마음이 편안해지는 음악, 불면증치료음악, 잠잘오는음악, 수면유도음악 (Lavender)",
      "channel": "힐링트리뮤직 Healing Tree Music & Sounds",
-     "seconds": 3729
+     "seconds": 36009
     },
     {
      "id": "E96njddrM5o",
@@ -1603,40 +1615,16 @@
      "seconds": 1800
     },
     {
+     "id": "DXB84VgBP18",
+     "title": "1시간 잔잔한 수면음악 + 풀벌레소리 🎵 스트레스 해소음악, 잠잘때 듣는 음악, 불면증치료음악, 수면유도음악 (My Dream)",
+     "channel": "힐링트리뮤직 Healing Tree Music & Sounds",
+     "seconds": 3729
+    },
+    {
      "id": "LmxBwGqCn2g",
      "title": "[자장가클래식모음 1시간연속] 피아노 자장가 슈베르트 모짜르트 자장가 풀벌레소리 바람소리 ♬숙면유도♬수면음악 연속듣기 ♫ 자장가노래 ♫ 수면유도음악",
      "channel": "소리의 정원 : 소리가든",
      "seconds": 3704
-    },
-    {
-     "id": "MAmp8cXxcZU",
-     "title": "동양풍수면음악+빗소리 Relaxing Sleep Music, Meditation Music, Stress Relief Music, Deep Sleeping Music",
-     "channel": "Flow Music",
-     "seconds": 10851
-    },
-    {
-     "id": "IyZkLhSejNI",
-     "title": "🧠💤 1번째 수면싸이클 안정화를 위한 수면단계별 뇌파동조 & 핑크노이즈 사운드 [90분 숙면블록]",
-     "channel": "브레이너 제이의 숙면 여행",
-     "seconds": 5401
-    },
-    {
-     "id": "gnQcIfUp8Ao",
-     "title": "하루의 끝, 편안한 침실에서 듣는 수면음악☁잠잘때 듣는 음악,불면증 치료 음악,수면유도음악",
-     "channel": "뮤직 메이트 Music Mate",
-     "seconds": 30923
-    },
-    {
-     "id": "PKvuUgrb6Fk",
-     "title": "🌜 최대한 빨리 재워주는 수면유도음악  | 잠잘때 듣는 음악",
-     "channel": "디노사운드 Dino.S",
-     "seconds": 3380
-    },
-    {
-     "id": "kShFkVPCPKs",
-     "title": "「기절하듯 잠드는 음악💤」 전 세계 사람들이 잠들기 전에 듣는 음악 - 잠 안 오면 이거, 스트레스 녹이는 밤 음악, 몸과 마음이 쉬는 시간 - 중간 광고 없는 영상",
-     "channel": "Yunchan Lim - 수면 음악 프로듀서",
-     "seconds": 8108
     },
     {
      "id": "LysA1OKA5Tk",
@@ -1645,16 +1633,28 @@
      "seconds": 17473
     },
     {
+     "id": "kShFkVPCPKs",
+     "title": "「기절하듯 잠드는 음악💤」 전 세계 사람들이 잠들기 전에 듣는 음악 - 잠 안 오면 이거, 스트레스 녹이는 밤 음악, 몸과 마음이 쉬는 시간 - 중간 광고 없는 영상",
+     "channel": "Yunchan Lim - 수면 음악 프로듀서",
+     "seconds": 8108
+    },
+    {
+     "id": "IyZkLhSejNI",
+     "title": "🧠💤 1번째 수면싸이클 안정화를 위한 수면단계별 뇌파동조 & 핑크노이즈 사운드 [90분 숙면블록]",
+     "channel": "브레이너 제이의 숙면 여행",
+     "seconds": 5401
+    },
+    {
+     "id": "PKvuUgrb6Fk",
+     "title": "🌜 최대한 빨리 재워주는 수면유도음악  | 잠잘때 듣는 음악",
+     "channel": "디노사운드 Dino.S",
+     "seconds": 3380
+    },
+    {
      "id": "SU1ANqWhFf4",
      "title": "🌙듣자마자 스르르 눈이 감겨지는 수면유도음악 -5분후 화면 꺼짐 -잠 잘때 듣기 좋은 음악",
      "channel": "Healing & Silent  ",
      "seconds": 33020
-    },
-    {
-     "id": "xzCzggN6JB8",
-     "title": "10시간 잔잔한 수면음악 🎵 스트레스 해소음악, 잠잘때 듣는 음악, 불면증치료음악, 수면유도음악 My Dream",
-     "channel": "힐링주파수",
-     "seconds": 36123
     },
     {
      "id": "NSNY8qDUKqw",
@@ -1663,10 +1663,16 @@
      "seconds": 34986
     },
     {
-     "id": "iLPTdZmoX00",
-     "title": "마음이 편안해지는 수면음악☁, 잠잘때듣는음악 'Hug me'",
-     "channel": "힐링앤뮤직 Healing and Music",
-     "seconds": 34415
+     "id": "MAmp8cXxcZU",
+     "title": "동양풍수면음악+빗소리 Relaxing Sleep Music, Meditation Music, Stress Relief Music, Deep Sleeping Music",
+     "channel": "Flow Music",
+     "seconds": 10851
+    },
+    {
+     "id": "gnQcIfUp8Ao",
+     "title": "하루의 끝, 편안한 침실에서 듣는 수면음악☁잠잘때 듣는 음악,불면증 치료 음악,수면유도음악",
+     "channel": "뮤직 메이트 Music Mate",
+     "seconds": 30923
     },
     {
      "id": "hvJ_cp-j9C0",
@@ -1675,10 +1681,16 @@
      "seconds": 1868
     },
     {
-     "id": "dI4Sc2isLRY",
-     "title": "[99%의 사람들이 단 5분 만에 빨리 잠들습니다]  숙면을 위한 수면유도 음악💤",
-     "channel": "Yunchan Lim - 수면 음악 프로듀서",
-     "seconds": 3702
+     "id": "YaM2C3CBVPA",
+     "title": "듣자마자 바로 잠드는 산속 빗소리, [중간광고없음]10분후 검은 화면, 즉시 잠드는 편안한 수면을 위한 자연의 소리, ASMR",
+     "channel": "빗소리 자장가 Rain sound lullaby",
+     "seconds": 25200
+    },
+    {
+     "id": "xzCzggN6JB8",
+     "title": "10시간 잔잔한 수면음악 🎵 스트레스 해소음악, 잠잘때 듣는 음악, 불면증치료음악, 수면유도음악 My Dream",
+     "channel": "힐링주파수",
+     "seconds": 36123
     },
     {
      "id": "lGUs_G7Jo1s",
@@ -1711,16 +1723,22 @@
      "seconds": 3601
     },
     {
+     "id": "Kwh8h2njlRs",
+     "title": "수면유도음악 1분후 화면꺼짐 광고없는 1시간  🎵  sleep music, healing music, a black screen after a minute.",
+     "channel": "들려줄게",
+     "seconds": 3601
+    },
+    {
      "id": "m7GOmncIU5A",
      "title": "지친 마음을 달래주는 음악 🎵 1시간 힐링음악, 스트레스해소음악, 마음이 편안해지는 음악, 위로음악",
      "channel": "힐링트리뮤직 Healing Tree Music & Sounds",
      "seconds": 3802
     },
     {
-     "id": "Kwh8h2njlRs",
-     "title": "수면유도음악 1분후 화면꺼짐 광고없는 1시간  🎵  sleep music, healing music, a black screen after a minute.",
-     "channel": "들려줄게",
-     "seconds": 3601
+     "id": "dI4Sc2isLRY",
+     "title": "[99%의 사람들이 단 5분 만에 빨리 잠들습니다]  숙면을 위한 수면유도 음악💤",
+     "channel": "Yunchan Lim - 수면 음악 프로듀서",
+     "seconds": 3702
     },
     {
      "id": "_xBL1m71gpY",
@@ -1771,6 +1789,12 @@
      "seconds": 3778
     },
     {
+     "id": "IGJ-SjyT2LE",
+     "title": "🌙듣자마자 스르르 눈이 감겨요 수면유도음악 -5분후 화면 꺼짐--잠 잘때 듣기 좋은 음악",
+     "channel": "Healing & Silent  ",
+     "seconds": 32861
+    },
+    {
      "id": "n6XDuRyhO4E",
      "title": "초강력 수면 유도!  5분 안에 잠드는 음악｜취침 전 듣기 가장 좋은 음악, 불면증에 좋은 최고의 빗소리",
      "channel": "Yunchan Lim - 수면 음악 프로듀서",
@@ -1795,6 +1819,12 @@
      "seconds": 3742
     },
     {
+     "id": "xsfyb1pStdw",
+     "title": "The DEEPEST Healing Sleep | 3.2Hz Delta Brain Waves | REM Sleep Music - Binaural Beats",
+     "channel": "SleepTube - Hypnotic Relaxation",
+     "seconds": 18000
+    },
+    {
      "id": "xMge0-UB_9I",
      "title": "1 Hour Deep Sleep Music for Adhd (8d Audio)",
      "channel": "Timeless Mind - Topic",
@@ -1807,40 +1837,10 @@
      "seconds": 3641
     },
     {
-     "id": "dEjvzDR3WSc",
-     "title": "Delta Waves Sleep Music: 1 Hour Music For Sleeping, Meditation Music, Relaxation Music, ☯118",
-     "channel": "Yellow Brick Cinema - Relaxing Music",
-     "seconds": 3608
-    },
-    {
-     "id": "iR5YNrC5LUg",
-     "title": "60 Minutes of Relaxation Music - 1 Hour Song to Fall Asleep Fast, Wellness Sleep Track",
-     "channel": "Relaxation Masters - Topic",
-     "seconds": 3606
-    },
-    {
-     "id": "ySzjFJ5HLA8",
-     "title": "1 Hour SWEET SLUMBER Deep Sleep Music: Delta Waves, Relaxing Music Sleep, Sleeping Music",
-     "channel": "Brainwave Music",
-     "seconds": 3605
-    },
-    {
-     "id": "xQ6xgDI7Whc",
-     "title": "Sleep Music Delta Waves: Relaxing Music to Help you Sleep, Deep Sleep, Inner Peace",
-     "channel": "MeditationRelaxClub - Sleep Music & Mindfulness",
-     "seconds": 2699
-    },
-    {
      "id": "rA7m3iKpuko",
      "title": "Deep Sleep Music ★︎ FALL ASLEEP IMMEDIATELY ★︎ Melatonin Release",
      "channel": "Nu Meditation Music",
      "seconds": 40271
-    },
-    {
-     "id": "rCSCPujLs14",
-     "title": "[Try Listening for 3 Minutes] FALL ASLEEP FAST | DEEP SLEEP RELAXING MUSIC",
-     "channel": "Nova Relaxing Music",
-     "seconds": 7196
     },
     {
      "id": "Ny-aW_pK0Nk",
@@ -1849,34 +1849,34 @@
      "seconds": 3598
     },
     {
-     "id": "5NhwYSIDj3A",
-     "title": "Deep Sleep Music 🎶 Relaxing Piano Music & Rain Sounds in Warm Bedroom for Sleeping, Relax, Study",
-     "channel": "Piano Rain Retreat",
-     "seconds": 5239
+     "id": "I3OJUwILelU",
+     "title": "Relaxing music Relieves stress, Anxiety and Depression 🌿 Heals the Mind, body and Soul - Deep Sleep",
+     "channel": "Relaxing Calming Music",
+     "seconds": 5467
     },
     {
-     "id": "4ClfFLK8T2o",
-     "title": "Deep Sleep Relaxation - 60 Minute Music for Sleeping All Night",
-     "channel": "Deep Sleep - Topic",
-     "seconds": 3601
+     "id": "njHvGxZgTPk",
+     "title": "Relaxing Music for Deep Sleep. Delta Waves. Calm Background for Sleeping, Meditation , Yoga",
+     "channel": "Meditation Relax Music",
+     "seconds": 28987
     },
     {
-     "id": "EOjve-nyYfQ",
-     "title": "1 HOUR of Best Relaxing Music | Bamboo Flute | Sleep Music | Meditation Music | Peaceful Sleep Music",
-     "channel": "Nova Relaxing Music",
-     "seconds": 3406
+     "id": "xQ6xgDI7Whc",
+     "title": "Sleep Music Delta Waves: Relaxing Music to Help you Sleep, Deep Sleep, Inner Peace",
+     "channel": "MeditationRelaxClub - Sleep Music & Mindfulness",
+     "seconds": 2699
     },
     {
-     "id": "9x9ZgHGLHWE",
-     "title": "Sleeping Music, 1 Hour Sleep Music, Deep Sleep Music, Insomnia, Meditation, Study, Spa, Sleep, ☯183",
-     "channel": "Yellow Brick Cinema - Relaxing Music",
-     "seconds": 3612
+     "id": "iR5YNrC5LUg",
+     "title": "60 Minutes of Relaxation Music - 1 Hour Song to Fall Asleep Fast, Wellness Sleep Track",
+     "channel": "Relaxation Masters - Topic",
+     "seconds": 3606
     },
     {
-     "id": "S726jTtcT3w",
-     "title": "1 Hour Relaxing Music BLACK SCREEN - Meditation, Deep Sleep, Healing Music For Stress & Anxiety",
-     "channel": "Infinity Meditation, Relaxation & Sleep Music",
-     "seconds": 3600
+     "id": "dE_XVl7fwBQ",
+     "title": "1 HOUR Zen Music For Inner Balance, Stress Relief and Relaxation by Vyanah",
+     "channel": "Vyanah Music - For Meditation & Inner Balance",
+     "seconds": 3743
     },
     {
      "id": "HnoqfbVgrPU",
@@ -1885,16 +1885,34 @@
      "seconds": 14340
     },
     {
-     "id": "RaF0fZKMiJ4",
-     "title": "432 Hz | Deep Sleep Calming (1 Hour) Meditation",
-     "channel": "Infinite Waters (Diving Deep)",
-     "seconds": 3603
+     "id": "4ClfFLK8T2o",
+     "title": "Deep Sleep Relaxation - 60 Minute Music for Sleeping All Night",
+     "channel": "Deep Sleep - Topic",
+     "seconds": 3601
     },
     {
-     "id": "h6PNJaWGrwE",
-     "title": "Guided 1-HOUR POWER NAP: Timed Sleep for 1 Hour",
-     "channel": "The Honest Guys - Meditations - Relaxation",
-     "seconds": 3670
+     "id": "rCSCPujLs14",
+     "title": "[Try Listening for 3 Minutes] FALL ASLEEP FAST | DEEP SLEEP RELAXING MUSIC",
+     "channel": "Nova Relaxing Music",
+     "seconds": 7196
+    },
+    {
+     "id": "EOjve-nyYfQ",
+     "title": "1 HOUR of Best Relaxing Music | Bamboo Flute | Sleep Music | Meditation Music | Peaceful Sleep Music",
+     "channel": "Nova Relaxing Music",
+     "seconds": 3406
+    },
+    {
+     "id": "1ZYbU82GVz4",
+     "title": "Flying: Relaxing Sleep Music for Meditation, Stress Relief & Relaxation by Peder B. Helland",
+     "channel": "Soothing Relaxation",
+     "seconds": 10822
+    },
+    {
+     "id": "-b4BjxrIp8o",
+     "title": "Beautiful Piano Music, Vol. 3 | Relaxing Music for Sleep & Relaxation by Peder B. Helland",
+     "channel": "Soothing Relaxation",
+     "seconds": 3235
     }
    ]
   },
@@ -1928,22 +1946,10 @@
      "seconds": 1358
     },
     {
-     "id": "PwsuJc9IcyA",
-     "title": "[𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕] 공허와 밤의 경계에서_새벽 감성 노래 모음",
-     "channel": "동그리플리",
-     "seconds": 3235
-    },
-    {
-     "id": "JUzPQ0JalHE",
-     "title": "무드있는 잔잔한 팝송 플리🌙 감성 팝송 모음 | 적당한 비트, 책읽을때 듣기 좋은 음악 | Design making tutorial",
-     "channel": "Blue rain",
-     "seconds": 12268
-    },
-    {
-     "id": "_vy2qHQL9mQ",
-     "title": "[ᴘʟᴀʏʟɪsᴛ] 우리는 영원히 우리로 기억되기를 | 새벽 감성 인디 플레이리스트",
-     "channel": "Yours",
-     "seconds": 1253
+     "id": "HAZoxWN93aQ",
+     "title": "☾𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 새벽에 들으면 감성에 잠기는 / 보넥도 새벽 감성 플레이리스트 ",
+     "channel": "보넥도일기",
+     "seconds": 1666
     },
     {
      "id": "1ofx11r8YaA",
@@ -1952,34 +1958,10 @@
      "seconds": 1681
     },
     {
-     "id": "Sl4HxQAEZHY",
-     "title": "ᵖˡᵃʸˡⁱˢᵗ잔잔 빌리 감성🌆 | 빌리아일리시 노래 모음 | 감성노래모음 | 새벽감성 노래 | (7곡) (20분)",
-     "channel": "프룽팹music",
-     "seconds": 1365
-    },
-    {
-     "id": "Agh-EZkoyUo",
-     "title": "중년들이 사랑하는 노래 🎶🎶 광고 없는 7080 좋은노래 40곡 모음 - 추억으로 떠나는 7080 노래여행",
-     "channel": "7080 마음의 선율",
-     "seconds": 6046
-    },
-    {
      "id": "SPxobPvrd9w",
      "title": "맞아 너 좋아해, 그러니깐 이 새벽에 이런 잔잔한 사랑노래나 듣지",
      "channel": "감성 저장소",
      "seconds": 1677
-    },
-    {
-     "id": "UOZqPw8Gnpk",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 느좋 새벽감성 플리 | 감성힙합 R&B 인디🎧",
-     "channel": "loffea",
-     "seconds": 5175
-    },
-    {
-     "id": "Gl91jWxpzCk",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 새벽감성 인디 피아노 플레이리스트 🎧 ⎮ 검정치마, 최유리, 카더가든, 데이먼스이어, 잔나비, 너드커넥션, 혁오, 델리스파이스",
-     "channel": "율다우피아노 Yuldau Piano",
-     "seconds": 5200
     },
     {
      "id": "6R9QqhJFxOA",
@@ -1988,28 +1970,10 @@
      "seconds": 1625
     },
     {
-     "id": "7YZxb9Bnrys",
-     "title": "[Playlist] 새벽 2시에 듣는 새벽감성힙합 (재업)",
-     "channel": "송갬성",
-     "seconds": 1309
-    },
-    {
-     "id": "aZmsTX0-KAE",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 새벽 감성 듬뿍 담은 혁오 노래모음",
-     "channel": "0407 ᴘʟᴀʏ ʟɪsᴛ",
-     "seconds": 1775
-    },
-    {
-     "id": "h4-3HLJ6w8g",
-     "title": "새벽을 위한 감성적인 피아노 음악 모음, 독서와 공부를 위한 음악, 슬픈 음악, 몽환적인 음악, 눈물이 나오는 음악, 잔잔한 배경음악, 매장음악, 책읽을때 듣는 음악, 소설, 만화",
-     "channel": "Tido Kang",
-     "seconds": 11408
-    },
-    {
-     "id": "_cB35dRMmGQ",
-     "title": "아침에 그냥 틀어 놓으세요 🎧편안한 하루를 위한 감성 팝송 / 감미로운 멜로디 Playlist🎵",
-     "channel": "고막플리 HP MUSIC",
-     "seconds": 3851
+     "id": "UOZqPw8Gnpk",
+     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 느좋 새벽감성 플리 | 감성힙합 R&B 인디🎧",
+     "channel": "loffea",
+     "seconds": 5175
     },
     {
      "id": "7-n9G_TD9BI",
@@ -2018,16 +1982,82 @@
      "seconds": 1733
     },
     {
+     "id": "7YZxb9Bnrys",
+     "title": "[Playlist] 새벽 2시에 듣는 새벽감성힙합 (재업)",
+     "channel": "송갬성",
+     "seconds": 1309
+    },
+    {
+     "id": "_vy2qHQL9mQ",
+     "title": "[ᴘʟᴀʏʟɪsᴛ] 우리는 영원히 우리로 기억되기를 | 새벽 감성 인디 플레이리스트",
+     "channel": "Yours",
+     "seconds": 1253
+    },
+    {
      "id": "1mTDZkieR-M",
      "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 잔잔한 새벽감성 인디 플레이리스트 | 윤지영, 알레프, 한로로, 데이먼스이어, 카더가든, 혁오",
      "channel": "unnown",
      "seconds": 2466
     },
     {
-     "id": "HAZoxWN93aQ",
-     "title": "☾𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 새벽에 들으면 감성에 잠기는 / 보넥도 새벽 감성 플레이리스트 ",
-     "channel": "보넥도일기",
-     "seconds": 1666
+     "id": "PwsuJc9IcyA",
+     "title": "[𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕] 공허와 밤의 경계에서_새벽 감성 노래 모음",
+     "channel": "동그리플리",
+     "seconds": 3235
+    },
+    {
+     "id": "yOBPgqO0VRc",
+     "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 잔잔한 새벽감성 인디 플레이리스트 | 잔나비, 카더가든, 검정치마, 데이먼스이어, 윤지영, 설",
+     "channel": "unnown",
+     "seconds": 2293
+    },
+    {
+     "id": "hb-CoVoFkz8",
+     "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 새벽 감성 잔잔한 일본 J-POP I Night Ballad & Sleepy Japanese songs",
+     "channel": "noharu노하루",
+     "seconds": 8647
+    },
+    {
+     "id": "JUzPQ0JalHE",
+     "title": "무드있는 잔잔한 팝송 플리🌙 감성 팝송 모음 | 적당한 비트, 책읽을때 듣기 좋은 음악 | Design making tutorial",
+     "channel": "Blue rain",
+     "seconds": 12268
+    },
+    {
+     "id": "O4-NHFl3NRQ",
+     "title": "[Playlist] 새벽 2시에 혼자 듣기 좋은 인디 감성 플레이리스트",
+     "channel": "휴우(whewu)",
+     "seconds": 4007
+    },
+    {
+     "id": "9e-BbcFSUU4",
+     "title": "[ 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 ] 몽환 잔잔한 새벽에 듣기 좋은 우타이테/일본 노래 ㅣJPOP",
+     "channel": "앨리스 Playlist",
+     "seconds": 6413
+    },
+    {
+     "id": "zeI1EYbyZN0",
+     "title": "[𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕☾]밤 공기 마시면서 듣기 좋은 플레이리스트",
+     "channel": "유채",
+     "seconds": 1491
+    },
+    {
+     "id": "Gl91jWxpzCk",
+     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 새벽감성 인디 피아노 플레이리스트 🎧 ⎮ 검정치마, 최유리, 카더가든, 데이먼스이어, 잔나비, 너드커넥션, 혁오, 델리스파이스",
+     "channel": "율다우피아노 Yuldau Piano",
+     "seconds": 5200
+    },
+    {
+     "id": "mCJi4YUCICQ",
+     "title": "[Playlist] 새벽 감성 낭낭한 내 취향 여돌 수록곡 모음⊹꒰ ⑅·͈·̮·͈꒱ ♡⊹ / 여자 아이돌 노래 플레이리스트 /감성적인",
+     "channel": "고핑퐁",
+     "seconds": 1747
+    },
+    {
+     "id": "Sl4HxQAEZHY",
+     "title": "ᵖˡᵃʸˡⁱˢᵗ잔잔 빌리 감성🌆 | 빌리아일리시 노래 모음 | 감성노래모음 | 새벽감성 노래 | (7곡) (20분)",
+     "channel": "프룽팹music",
+     "seconds": 1365
     },
     {
      "id": "fs9-WLELBAI",
@@ -2036,16 +2066,10 @@
      "seconds": 3894
     },
     {
-     "id": "Brpdd4RwmXc",
-     "title": "[𝑷𝑶𝑷] 시티팝을 좋아하시나요? 일본에 온 것 같은 City POP l 𝑺𝒖𝒎𝒎𝒆𝒓 𝒔𝒆𝒏𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒚 𝒓𝒆𝒕𝒓𝒐 𝒄𝒊𝒕𝒚 𝒑𝒐𝒑",
-     "channel": "바이올렛 피즈 Violet fizz",
-     "seconds": 7151
-    },
-    {
-     "id": "u1QOAFYu5F8",
-     "title": "새벽 감성 시티팝 🌙 혼자 듣기 좋은 Japanese City Pop Playlist | Late Night Vibes",
-     "channel": "라이토",
-     "seconds": 3780
+     "id": "hoy_cF7yaxI",
+     "title": "[Playlist] 🌙이런날 오늘 밤 감성폭발 시티팝 퇴근길에 더 좋네 #시티팝 #citypop #90년대",
+     "channel": "음추음추추 eumchu",
+     "seconds": 2554
     },
     {
      "id": "gCif46o7KKU",
@@ -2060,16 +2084,16 @@
      "seconds": 11836
     },
     {
-     "id": "kGdYtU4TgB0",
-     "title": "𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 새벽에 공부할 때 듣는 잔잔한 시티팝 🌆📖 4AM City Pop 夜明け前のシティポップ (광고없음/広告なし)",
-     "channel": "playlist_creator_crew",
-     "seconds": 5524
+     "id": "Brpdd4RwmXc",
+     "title": "[𝑷𝑶𝑷] 시티팝을 좋아하시나요? 일본에 온 것 같은 City POP l 𝑺𝒖𝒎𝒎𝒆𝒓 𝒔𝒆𝒏𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒚 𝒓𝒆𝒕𝒓𝒐 𝒄𝒊𝒕𝒚 𝒑𝒐𝒑",
+     "channel": "바이올렛 피즈 Violet fizz",
+     "seconds": 7151
     },
     {
-     "id": "cG_2ZSvaE0Y",
-     "title": "퇴근길 노래와 노을지는 도시 ✨ 저녁에 듣기좋은 잔잔한 감성 팝송 | Design making tutorial",
-     "channel": "Blue rain",
-     "seconds": 11120
+     "id": "u1QOAFYu5F8",
+     "title": "새벽 감성 시티팝 🌙 혼자 듣기 좋은 Japanese City Pop Playlist | Late Night Vibes",
+     "channel": "라이토",
+     "seconds": 3780
     },
     {
      "id": "i1f_bpRPDio",
@@ -2078,34 +2102,10 @@
      "seconds": 2143
     },
     {
-     "id": "Jcpifo6eO7Q",
-     "title": "[Playlist] 혼자 있을때 듣기 좋은 인디 플레이리스트ㅣ 새벽에 듣는 인디 감성 시티팝 Korean Indie pop",
-     "channel": "소울사운드 Soul Sound",
-     "seconds": 4091
-    },
-    {
-     "id": "qN5TT0UNUJA",
-     "title": "𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 새벽에 공부할 때 듣는 잔잔한 시티팝 🌆📖 4AM City Pop 夜明け前のシティポップ (광고없음/広告なし)",
-     "channel": "playlist_creator_crew",
-     "seconds": 5524
-    },
-    {
-     "id": "WRgIF4WuwYc",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 새벽에 듣기 좋은 시티팝 | 잠이오지 않을때 | 시티팝 감성 마구 솟아나는 플레이리스트 | Yukari 2nd | CityPop",
-     "channel": "Yukari1986",
-     "seconds": 4299
-    },
-    {
-     "id": "_d1nLdojUXU",
-     "title": "🎆 도심속 카페 야경 | 밤에 듣기 좋은노래 | 잔잔한 팝 발라드 Best 🎁 | Chill Pop for a Relaxing Mood | 그냥 틀어 놓으세요",
-     "channel": "Soul Cafe",
-     "seconds": 4036
-    },
-    {
-     "id": "U-FRVK3nbXs",
-     "title": "𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 새벽에 공부할 때 듣는 잔잔한 시티팝 🌆📖 4AM City Pop 夜明け前のシティポップ (광고없음/広告なし)",
-     "channel": "playlist_creator_crew",
-     "seconds": 5524
+     "id": "cG_2ZSvaE0Y",
+     "title": "퇴근길 노래와 노을지는 도시 ✨ 저녁에 듣기좋은 잔잔한 감성 팝송 | Design making tutorial",
+     "channel": "Blue rain",
+     "seconds": 11120
     },
     {
      "id": "pWyyNOFi07U",
@@ -2114,16 +2114,34 @@
      "seconds": 8455
     },
     {
-     "id": "HiQoIAcs018",
-     "title": "𝐿𝑎𝑢𝑣와 𝐿𝑎𝑛𝑦의 감성 드라이브 [Playlist]",
-     "channel": "김재만",
-     "seconds": 1353
+     "id": "Jcpifo6eO7Q",
+     "title": "[Playlist] 혼자 있을때 듣기 좋은 인디 플레이리스트ㅣ 새벽에 듣는 인디 감성 시티팝 Korean Indie pop",
+     "channel": "소울사운드 Soul Sound",
+     "seconds": 4091
     },
     {
-     "id": "a97O6S8TbAg",
-     "title": "밤 드라이브 할때 듣기 좋은 시티팝 모음. (feat. 유키카)",
-     "channel": "Mellow Muzik",
-     "seconds": 1698
+     "id": "_d1nLdojUXU",
+     "title": "🎆 도심속 카페 야경 | 밤에 듣기 좋은노래 | 잔잔한 팝 발라드 Best 🎁 | Chill Pop for a Relaxing Mood | 그냥 틀어 놓으세요",
+     "channel": "Soul Cafe",
+     "seconds": 4036
+    },
+    {
+     "id": "kGdYtU4TgB0",
+     "title": "𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 새벽에 공부할 때 듣는 잔잔한 시티팝 🌆📖 4AM City Pop 夜明け前のシティポップ (광고없음/広告なし)",
+     "channel": "playlist_creator_crew",
+     "seconds": 5524
+    },
+    {
+     "id": "qN5TT0UNUJA",
+     "title": "𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 새벽에 공부할 때 듣는 잔잔한 시티팝 🌆📖 4AM City Pop 夜明け前のシティポップ (광고없음/広告なし)",
+     "channel": "playlist_creator_crew",
+     "seconds": 5524
+    },
+    {
+     "id": "U-FRVK3nbXs",
+     "title": "𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁 새벽에 공부할 때 듣는 잔잔한 시티팝 🌆📖 4AM City Pop 夜明け前のシティポップ (광고없음/広告なし)",
+     "channel": "playlist_creator_crew",
+     "seconds": 5524
     },
     {
      "id": "RwCYQEBnPzo",
@@ -2132,10 +2150,28 @@
      "seconds": 3444
     },
     {
-     "id": "d7M1fxT8E7M",
-     "title": "𝙋𝙇𝘼𝙔𝙇𝙄𝙎𝙏 한국 시티팝🌕 서울에서 부산까지🚗 지루할 틈 없는 추석 플리 | 드라이브 필수템!!",
-     "channel": "dear:playlist",
-     "seconds": 14912
+     "id": "WRgIF4WuwYc",
+     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 새벽에 듣기 좋은 시티팝 | 잠이오지 않을때 | 시티팝 감성 마구 솟아나는 플레이리스트 | Yukari 2nd | CityPop",
+     "channel": "Yukari1986",
+     "seconds": 4299
+    },
+    {
+     "id": "Cn7qepUD0vg",
+     "title": "[Playlist] 창밖 도시 불빛, 밤에 듣기 좋은 시티팝 로파이 | Lo-Fi City Pop",
+     "channel": "루엣。",
+     "seconds": 11033
+    },
+    {
+     "id": "oA9hO5BX6L4",
+     "title": "[playlist] 이제는 선선해진 새벽공기...산책이나 할까? l 새벽에 듣기 좋은 시티팝 모음",
+     "channel": "무제_Muze Playlist",
+     "seconds": 2226
+    },
+    {
+     "id": "jv6SuCXj5lA",
+     "title": "[Playlist] 홀로 남은 방 안, 밤에 듣기 좋은 시티팝 플레이리스트 | Lo-Fi City Pop",
+     "channel": "루엣。",
+     "seconds": 11103
     },
     {
      "id": "sOmpLOgPzH8",
@@ -2150,16 +2186,10 @@
      "seconds": 4467
     },
     {
-     "id": "idvU-D6f5eI",
-     "title": "[Playlist] 가을 🍂에 듣는 시티팝 플리 🎹 | 비 ☔️ 내리는 새벽감성 플레이리스트 | 조용하게 혼자들어요 🎧 | 카페 음악 ☕️ | 공부하거나 일할 때 📝",
-     "channel": "깜고냥 믹스테잎",
-     "seconds": 8694
-    },
-    {
-     "id": "Xp67dGeEOLo",
-     "title": "[PLAYLIST] 이어폰을 끼는 순간 여긴 뉴욕 시티 ᖰʘ̅͜ʘ̅ᖳ : 뉴욕 감성 팝송 모음",
-     "channel": "ssing송",
-     "seconds": 1713
+     "id": "Hpnqh5xELWU",
+     "title": "[2시간] 새벽 감성 시티팝 한 곡씩 🌃 Chill Dreamy City Pop Playlist 2026",
+     "channel": "스타일스튜디오",
+     "seconds": 9335
     },
     {
      "id": "HI__cDQs5hY",
@@ -2180,10 +2210,10 @@
      "seconds": 10262
     },
     {
-     "id": "hwkq1qlVbqc",
-     "title": "2:00am Soul R&B Bedroom Playlist | SZA, Miguel, PARTYNEXTDOOR, Brent Faiyaz, Kehlani Mix by HelloVee",
-     "channel": "Hello Vee",
-     "seconds": 2483
+     "id": "KjItUXF3cmM",
+     "title": "Late Night Afrobeats Mix | Alté R&B Afrosoul| Wizkid, Burna Boy, Tems, Rema, Oxlade",
+     "channel": "Noise Complaints",
+     "seconds": 3520
     },
     {
      "id": "Rbig5-6_m3o",
@@ -2192,46 +2222,22 @@
      "seconds": 1744
     },
     {
-     "id": "lSAz2ONC1rk",
-     "title": "Chillout Music — Late Night Work — Chill Mix",
-     "channel": "Chill Music Lab",
-     "seconds": 5116
-    },
-    {
-     "id": "KjItUXF3cmM",
-     "title": "Late Night Afrobeats Mix | Alté R&B Afrosoul| Wizkid, Burna Boy, Tems, Rema, Oxlade",
-     "channel": "Noise Complaints",
-     "seconds": 3520
-    },
-    {
-     "id": "IvgPhcKZiDM",
-     "title": "4L Dark & Chill R&B Mix | ft. SZA, PARTYNEXTDOOR, The Weeknd, Drake + More",
-     "channel": "DJ Otis",
-     "seconds": 2061
-    },
-    {
      "id": "m70d24MiCPA",
      "title": "Late Night Chill | Audio Jukebox | Romantic Songs | Slow Bollywood Songs | Feel Good Hindi Songs",
      "channel": "YRF Music",
      "seconds": 5406
     },
     {
-     "id": "dHU8B76kR_s",
-     "title": "'A Late Night R&B Experience' in Brooklyn 🤍 | Bryson Tiller, Daniel Caesar, Snoh, SZA + | Playlist",
-     "channel": "Noise Complaints",
-     "seconds": 5039
+     "id": "hwkq1qlVbqc",
+     "title": "2:00am Soul R&B Bedroom Playlist | SZA, Miguel, PARTYNEXTDOOR, Brent Faiyaz, Kehlani Mix by HelloVee",
+     "channel": "Hello Vee",
+     "seconds": 2483
     },
     {
-     "id": "O5-WIDPNrFk",
-     "title": "ＬＡＴＥ ＮＩＧＨＴ ＣＨＩＬＬ",
-     "channel": "utopic.dreamer",
-     "seconds": 23255
-    },
-    {
-     "id": "M9LBPg5tbqo",
-     "title": "LANY Playlist Mix - Chill Night Ride With Me",
-     "channel": "MEL",
-     "seconds": 1331
+     "id": "lSAz2ONC1rk",
+     "title": "Chillout Music — Late Night Work — Chill Mix",
+     "channel": "Chill Music Lab",
+     "seconds": 5116
     },
     {
      "id": "tUIi7oTmp4g",
@@ -2246,22 +2252,34 @@
      "seconds": 3506
     },
     {
-     "id": "j0JCpFOdxEE",
-     "title": "Late Night Drives | Video Jukebox | Hindi Songs | Bollywood Calm & Chill Mix",
-     "channel": "YRF",
-     "seconds": 2113
+     "id": "IvgPhcKZiDM",
+     "title": "4L Dark & Chill R&B Mix | ft. SZA, PARTYNEXTDOOR, The Weeknd, Drake + More",
+     "channel": "DJ Otis",
+     "seconds": 2061
     },
     {
-     "id": "i8W-LdXKT6s",
-     "title": "Night Mood 🌙 Chill R&B Mix | Late Night Vibes, Relaxing Soul, Study & Sleep Music",
-     "channel": "Relaxing Chill R&B",
-     "seconds": 7549
+     "id": "tyh5LAz8Vlo",
+     "title": "Night Chillout ✨ Chillout Vibes for Your Relaxing Nights",
+     "channel": "We Are Diamond",
+     "seconds": 4756
     },
     {
-     "id": "EcBhzv_ZQY0",
-     "title": "Late Night Vibes R&B Playlist Vol. 2 | Drake, PARTYNEXTDOOR, Tory Lanez, SZA, Summer Walker, Keshi",
-     "channel": "kung kung",
-     "seconds": 3318
+     "id": "cIZhlFIyJ_Y",
+     "title": "Night lofi playlist • lofi music | chill beats to relax/study to",
+     "channel": "HITO",
+     "seconds": 3652
+    },
+    {
+     "id": "aYDm-gt6FWg",
+     "title": "Late Night R&B Mix 🌙 | Drake, Brent Faiyaz, SZA, PARTYNEXTDOOR (Chill Vibes 2026) late@night vol 12",
+     "channel": "DJ Sophie Wall",
+     "seconds": 2683
+    },
+    {
+     "id": "n9Y2Eb4BaSg",
+     "title": "Night at Work | Instrumental Chill Music Mix",
+     "channel": "Fluidified",
+     "seconds": 3504
     }
    ]
   },
@@ -2319,16 +2337,16 @@
      "seconds": 4044
     },
     {
-     "id": "8RwtLapg0x0",
-     "title": "디즈니풍 피아노 모음 공부할 때 듣는 음악 (Disney Style Piano Study Music Ai음악)",
-     "channel": "jinhanborasaeg - Topic",
-     "seconds": 2017
-    },
-    {
      "id": "cr5kcR78lGQ",
      "title": "책 읽을 때 듣기 좋은 음악 모음🎵 책방에서 틀기 좋은음악, 서점 음악, 공부음악, 독서음악",
      "channel": "힐링트리뮤직 Healing Tree Music & Sounds",
      "seconds": 11006
+    },
+    {
+     "id": "8RwtLapg0x0",
+     "title": "디즈니풍 피아노 모음 공부할 때 듣는 음악 (Disney Style Piano Study Music Ai음악)",
+     "channel": "jinhanborasaeg - Topic",
+     "seconds": 2017
     },
     {
      "id": "qDyoLL6XXpU",
@@ -2379,10 +2397,10 @@
      "seconds": 11326
     },
     {
-     "id": "HryU3b4YQrc",
-     "title": "📚독서할 때 듣기 좋은 음악🎵 (중간 광고 없음, 피아노 연주, 1시간)",
-     "channel": "스터디언",
-     "seconds": 3613
+     "id": "tQl-xYFLu34",
+     "title": "교보문고 플레이리스트 | The Scent of Page feat. hibi",
+     "channel": "교보문고",
+     "seconds": 5003
     },
     {
      "id": "DnHpC6oj4wE",
@@ -2391,10 +2409,16 @@
      "seconds": 4071
     },
     {
-     "id": "tQl-xYFLu34",
-     "title": "교보문고 플레이리스트 | The Scent of Page feat. hibi",
-     "channel": "교보문고",
-     "seconds": 5003
+     "id": "HryU3b4YQrc",
+     "title": "📚독서할 때 듣기 좋은 음악🎵 (중간 광고 없음, 피아노 연주, 1시간)",
+     "channel": "스터디언",
+     "seconds": 3613
+    },
+    {
+     "id": "YtZLsfQw004",
+     "title": "책 읽을 때 듣기 좋은 빌 에반스 (Bill Evans) 노래 모음 | 𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕 | 예스24",
+     "channel": "YES24",
+     "seconds": 4611
     },
     {
      "id": "aepIEsxlaXc",
@@ -2409,22 +2433,10 @@
      "seconds": 8873
     },
     {
-     "id": "01XpV4LH3no",
-     "title": "[중간광고❌] 조용하고 우아한 클래식 피아노 명곡 | 집중, 휴식, 수면유도 배경음악 | Best Classical Piano Masterpieces",
-     "channel": "퓨얼리 피아노 𝚋𝚐𝚖",
-     "seconds": 11197
-    },
-    {
      "id": "N7RQYVsD4_M",
      "title": "집에서 책 읽을 때 듣는 감성 클래식 피아노 모음 📚",
      "channel": "클래식박스",
      "seconds": 3774
-    },
-    {
-     "id": "1Q_idPxdugQ",
-     "title": "[𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩] 가을, 독서의 계절에 듣는 명곡 클래식📚 | 드뷔시, 쇼팽, 슈만, 리스트",
-     "channel": "노르웨이 숲 Norwegian Wood",
-     "seconds": 8387
     },
     {
      "id": "6vJWZDoRdOw",
@@ -2433,10 +2445,16 @@
      "seconds": 8158
     },
     {
-     "id": "tlcEurH9Cpg",
-     "title": "[𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩] 노르웨이 숲이 사랑한 클래식 | 드뷔시, 쇼팽, 리스트",
+     "id": "01XpV4LH3no",
+     "title": "[중간광고❌] 조용하고 우아한 클래식 피아노 명곡 | 집중, 휴식, 수면유도 배경음악 | Best Classical Piano Masterpieces",
+     "channel": "퓨얼리 피아노 클래식 𝚋𝚐𝚖",
+     "seconds": 11197
+    },
+    {
+     "id": "1Q_idPxdugQ",
+     "title": "[𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩] 가을, 독서의 계절에 듣는 명곡 클래식📚 | 드뷔시, 쇼팽, 슈만, 리스트",
      "channel": "노르웨이 숲 Norwegian Wood",
-     "seconds": 8136
+     "seconds": 8387
     },
     {
      "id": "X8hLTk49atU",
@@ -2445,22 +2463,28 @@
      "seconds": 7348
     },
     {
-     "id": "YtZLsfQw004",
-     "title": "책 읽을 때 듣기 좋은 빌 에반스 (Bill Evans) 노래 모음 | 𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕 | 예스24",
-     "channel": "YES24",
-     "seconds": 4611
-    },
-    {
      "id": "Mc5YW9dGY0E",
      "title": "𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 선선한 여름, 작은 서점에서 듣는 잔잔한 피아노 음악 | 가사없는 피아노 음악 플레이리스트",
      "channel": "뮤직포아티스트 Music for Artist",
      "seconds": 3798
     },
     {
+     "id": "tlcEurH9Cpg",
+     "title": "[𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩] 노르웨이 숲이 사랑한 클래식 | 드뷔시, 쇼팽, 리스트",
+     "channel": "노르웨이 숲 Norwegian Wood",
+     "seconds": 8136
+    },
+    {
      "id": "p7U5yRgQ93A",
      "title": "Classical Music for Reading",
      "channel": "HALIDONMUSIC",
      "seconds": 8744
+    },
+    {
+     "id": "K2Dsbca4AP4",
+     "title": "마음이 편안해지는 클래식피아노 10시간 모음 수면,명상,휴식,공부,요가 [중간광고없음]",
+     "channel": "마인드피아노 MIND PIANO",
+     "seconds": 36067
     },
     {
      "id": "DyTpy8IzUrs",
@@ -2471,14 +2495,14 @@
     {
      "id": "4-9gp1puvMI",
      "title": "❄️겨울에 듣기 좋은 바흐 피아노 명곡 모음 | 중간광고❌| 집중, 휴식, 수면유도 배경음악 | Best of Bach Keyboard Music for Relaxation",
-     "channel": "퓨얼리 피아노 𝚋𝚐𝚖",
+     "channel": "퓨얼리 피아노 클래식 𝚋𝚐𝚖",
      "seconds": 10883
     },
     {
-     "id": "K2Dsbca4AP4",
-     "title": "마음이 편안해지는 클래식피아노 10시간 모음 수면,명상,휴식,공부,요가 [중간광고없음]",
-     "channel": "마인드피아노 MIND PIANO",
-     "seconds": 36067
+     "id": "_dn5vYN2GWY",
+     "title": "미술관에 온 듯🎻여유롭고 클래식한 피아노 연주곡",
+     "channel": "BeiGe Mellow 베이지멜로우",
+     "seconds": 14064
     },
     {
      "id": "rub7vg6YG7k",
@@ -2487,10 +2511,10 @@
      "seconds": 12951
     },
     {
-     "id": "Z0veeV9P2t4",
-     "title": "독서할 때 듣는 클래식 | 책 읽을 때 좋은 음악 Reading Classic",
-     "channel": "민지언니",
-     "seconds": 9753
+     "id": "2l4LR5B4Z_M",
+     "title": "공부할때 듣는 음악 매우 고급스러운 클래식 피아노 (Study Music Very Elegant...",
+     "channel": "jinhanborasaeg - Topic",
+     "seconds": 2066
     },
     {
      "id": "BZ-_KQezKmU",
@@ -2565,6 +2589,12 @@
      "seconds": 11265
     },
     {
+     "id": "HCV-2-IoIXs",
+     "title": "the smell of old books, reading, writing and studying (a dark academia playlist)",
+     "channel": "Dark Enigmatic ",
+     "seconds": 3629
+    },
+    {
      "id": "js6zXgxk0cQ",
      "title": "Best of Tchaikovsky - Classical Music Gems",
      "channel": "Essential Classics",
@@ -2583,12 +2613,6 @@
      "seconds": 6478
     },
     {
-     "id": "HCV-2-IoIXs",
-     "title": "the smell of old books, reading, writing and studying (a dark academia playlist)",
-     "channel": "Dark Enigmatic ",
-     "seconds": 3629
-    },
-    {
      "id": "omN72TAhpWg",
      "title": "Pride and Prejudice Study Room | Cozy Classical 🎻 Deep Focus & Reading",
      "channel": "Maybe Someday",
@@ -2601,28 +2625,28 @@
      "seconds": 6518
     },
     {
+     "id": "DAJFmBP9dzU",
+     "title": "6 Hours Chopin for Studying, Concentration & Relaxation",
+     "channel": "HALIDONMUSIC",
+     "seconds": 21568
+    },
+    {
      "id": "oZfU3yZ_bSw",
      "title": "Classical Music for Studying • Working • Focusing • Concentrating • 1 Hour",
      "channel": "Focus At Will",
      "seconds": 3580
     },
     {
-     "id": "vCMf1KtPINE",
-     "title": "Classical Morning | Uplifting, Relaxing Classical Music",
-     "channel": "HALIDONMUSIC",
-     "seconds": 7215
-    },
-    {
-     "id": "HIUYSqXSuwk",
-     "title": "3 Hours Chopin for Studying, Concentration and Relaxation",
-     "channel": "HALIDONMUSIC",
-     "seconds": 11631
-    },
-    {
      "id": "nPJo5uMlV5w",
      "title": "1 Hour With The Best Baroque Guitar Classical Music Ever - Focus Meditation Reading Concentration",
      "channel": "Classical Tunes",
      "seconds": 4655
+    },
+    {
+     "id": "jUtdUmMo9MI",
+     "title": "stay focused | Dark Academia Playlist",
+     "channel": "Dark Academy",
+     "seconds": 3286
     }
    ]
   },
@@ -2656,6 +2680,12 @@
      "seconds": 4392
     },
     {
+     "id": "ND68tyOnh2Q",
+     "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 (가사X) 할 일 다 끝내버리기 🧑‍💻 집중력 빡 올리는 베이스 로파이✍️",
+     "channel": "onia music 오니아 뮤직",
+     "seconds": 9657
+    },
+    {
      "id": "fhkQcCmkt6s",
      "title": "코딩할때 듣기 좋은 Lofi Mix 🎵 성곽뷰 • 3-Hour Study With Me 🌸 Seoul 🇰🇷",
      "channel": "노마드 코더 Nomad Coders",
@@ -2668,10 +2698,10 @@
      "seconds": 29824
     },
     {
-     "id": "ND68tyOnh2Q",
-     "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 (가사X) 할 일 다 끝내버리기 🧑‍💻 집중력 빡 올리는 베이스 로파이✍️",
-     "channel": "onia music 오니아 뮤직",
-     "seconds": 9657
+     "id": "1yylwX-tTh4",
+     "title": "코딩할때 듣는 좋은 Lofi Jazz 믹스테잎  • 과제할때 • 공부할때 • 3 hours",
+     "channel": "yellow mixtape",
+     "seconds": 10800
     },
     {
      "id": "NLePlAz2NPk",
@@ -2680,46 +2710,10 @@
      "seconds": 3089
     },
     {
-     "id": "1yylwX-tTh4",
-     "title": "코딩할때 듣는 좋은 Lofi Jazz 믹스테잎  • 과제할때 • 공부할때 • 3 hours",
-     "channel": "yellow mixtape",
-     "seconds": 10800
-    },
-    {
      "id": "wjR4ObKmfOU",
      "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 (가사X) 미친 집중력 모드 ON⚡ADHD도 공부하게 만드는 음악들 🎧",
      "channel": "onia music 오니아 뮤직",
      "seconds": 4938
-    },
-    {
-     "id": "XSKxJ7BpTyo",
-     "title": "[3 hours Playlist] 미친듯이 할 일 해치우기 |lofi playlist",
-     "channel": "Mood Rainbow",
-     "seconds": 11312
-    },
-    {
-     "id": "SyqyRv6NS_U",
-     "title": "과제 할 때 집중 하기 좋은 로파이 재즈 힙합 (playlist)/ 𝕝𝕠𝕗𝕚 𝕛𝕒𝕫𝕫 𝕙𝕚𝕡𝕙𝕠𝕡",
-     "channel": "Mood Rainbow",
-     "seconds": 2292
-    },
-    {
-     "id": "edoeWZuKYc8",
-     "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 (가사X) ADHD 댓글검증💬 시험기간 초집중 공부 플레이리스트 📑 베이스 중심 듣기 편한 공부 플리",
-     "channel": "onia music 오니아 뮤직",
-     "seconds": 10025
-    },
-    {
-     "id": "yHY5bhh9JLk",
-     "title": "적당히 신나는데 집중도 잘 돼...💻 노동요 플레이리스트 광고없음 3시간 | work music 🗽 Design making tutorial",
-     "channel": "Blue rain",
-     "seconds": 10864
-    },
-    {
-     "id": "jim9K1vBL0k",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 ✍🏻 2시간 집중력 UP! 플레이리스트 |  Study & Work Focus Up! Music",
-     "channel": "Objental 오브젠탈",
-     "seconds": 8329
     },
     {
      "id": "-PBX2PiMP24",
@@ -2728,10 +2722,22 @@
      "seconds": 12373
     },
     {
-     "id": "TacJb3LerGQ",
-     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 ✍🏻 3시간 집중력 UP! 플레이리스트 |  Study & Work Focus Up! Music",
+     "id": "SyqyRv6NS_U",
+     "title": "과제 할 때 집중 하기 좋은 로파이 재즈 힙합 (playlist)/ 𝕝𝕠𝕗𝕚 𝕛𝕒𝕫𝕫 𝕙𝕚𝕡𝕙𝕠𝕡",
+     "channel": "Mood Rainbow",
+     "seconds": 2292
+    },
+    {
+     "id": "jim9K1vBL0k",
+     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 ✍🏻 2시간 집중력 UP! 플레이리스트 |  Study & Work Focus Up! Music",
      "channel": "Objental 오브젠탈",
-     "seconds": 11445
+     "seconds": 8329
+    },
+    {
+     "id": "edoeWZuKYc8",
+     "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 (가사X) ADHD 댓글검증💬 시험기간 초집중 공부 플레이리스트 📑 베이스 중심 듣기 편한 공부 플리",
+     "channel": "onia music 오니아 뮤직",
+     "seconds": 10025
     },
     {
      "id": "iCaAWHlkLZs",
@@ -2740,16 +2746,28 @@
      "seconds": 8344
     },
     {
+     "id": "TacJb3LerGQ",
+     "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 ✍🏻 3시간 집중력 UP! 플레이리스트 |  Study & Work Focus Up! Music",
+     "channel": "Objental 오브젠탈",
+     "seconds": 11445
+    },
+    {
+     "id": "XSKxJ7BpTyo",
+     "title": "[3 hours Playlist] 미친듯이 할 일 해치우기 |lofi playlist",
+     "channel": "Mood Rainbow",
+     "seconds": 11312
+    },
+    {
+     "id": "Jxx8Pah3Dmg",
+     "title": "[inflaylist] ☘️ 산뜻한 계절에 청량 한 스푼ㅣ코딩할 때 듣기 좋은 음악 | 2 hour playlist | Lofi & Chill Beats |",
+     "channel": "인프런 inflearn",
+     "seconds": 9365
+    },
+    {
      "id": "-rRFxzRCHKI",
      "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 일하기 싫을 때 듣는 적당히 신나는 로파이 재즈 힙합∣A moderately lively lo-fi jazz hip-hop vibe",
      "channel": "솜플리 Somply",
      "seconds": 7746
-    },
-    {
-     "id": "WbCJQHN4RLY",
-     "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 | 시끄러운 건 싫고 둠칫하고는 싶어🕺🏻 일할 때 듣기 좋은 플레이리스트 🎼",
-     "channel": "라이크둠칫",
-     "seconds": 9668
     },
     {
      "id": "UvnWSXuYDus",
@@ -2776,16 +2794,16 @@
      "seconds": 11497
     },
     {
-     "id": "-4Uh2kwiWhI",
-     "title": "[Playlist] 👾 듣기만 해도 에러가 사라지는 코딩/작업용 플리 🎧 | 3 hour lofi Jazz",
-     "channel": "티오리티비 TheoriTV",
-     "seconds": 10830
-    },
-    {
      "id": "cbuZfY2S2UQ",
      "title": "[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ]  코딩할때 듣기 좋은 노래 • lofi type beat • 3 hours",
      "channel": "yanu_",
      "seconds": 10228
+    },
+    {
+     "id": "-4Uh2kwiWhI",
+     "title": "[Playlist] 👾 듣기만 해도 에러가 사라지는 코딩/작업용 플리 🎧 | 3 hour lofi Jazz",
+     "channel": "티오리티비 TheoriTV",
+     "seconds": 10830
     },
     {
      "id": "mZz1UcPD8q4",
@@ -2812,16 +2830,16 @@
      "seconds": 10914
     },
     {
-     "id": "SigIbCVMTzU",
-     "title": "code-fi / lofi beats to code/relax to #2",
-     "channel": "The AMP Channel",
-     "seconds": 3720
+     "id": "8lVJ9dsAYus",
+     "title": "code with me - relaxing lofi 1 hour  coding session",
+     "channel": "Thomas Langhorst",
+     "seconds": 3854
     },
     {
-     "id": "dsD87LFFn-U",
-     "title": "코딩할 때 듣는 음악 | 개발자 집중 BGM Lo-Fi Coding Playlist",
-     "channel": "민지언니",
-     "seconds": 3659
+     "id": "IGFxB3mrETE",
+     "title": "Let's have a productive session today 💪 Chill Lofi Beats Mix for Work, Study & Deep Focus",
+     "channel": "Lofi 코딩",
+     "seconds": 11956
     },
     {
      "id": "xAR6N9N8e6U",
@@ -2854,6 +2872,12 @@
      "seconds": 10383
     },
     {
+     "id": "dheqxLgg-qg",
+     "title": "Chill Work Music — Deep Focus and Productivity Mix for Programming, Coding",
+     "channel": "Chill Music Lab",
+     "seconds": 5467
+    },
+    {
      "id": "8mJQbzoIIw8",
      "title": "Deep Focus - 2 Hour Chillstep Mix for Productive Coding",
      "channel": "Cosmic Hippo",
@@ -2878,12 +2902,6 @@
      "seconds": 1802
     },
     {
-     "id": "QiGr9joaVas",
-     "title": "Data Flow - Chillstep Coding Mix for Focused Builders",
-     "channel": "Coding Therapy Music",
-     "seconds": 10844
-    },
-    {
      "id": "am1VJP0RnmQ",
      "title": "Flow State - Chillstep & Synthwave for Deep Focus | Coding Session",
      "channel": "Cosmic Hippo",
@@ -2896,16 +2914,16 @@
      "seconds": 3789
     },
     {
+     "id": "QiGr9joaVas",
+     "title": "Data Flow - Chillstep Coding Mix for Focused Builders",
+     "channel": "Coding Therapy Music",
+     "seconds": 10844
+    },
+    {
      "id": "M5QY2_8704o",
      "title": "Chillstep Music for Programming / Cyber / Coding",
      "channel": "Chill Music Lab",
      "seconds": 6144
-    },
-    {
-     "id": "qYEKQWRFvK8",
-     "title": "Focus Without Distraction — Electronic Music for Deep Work Sessions",
-     "channel": "Cinematic Moves",
-     "seconds": 3677
     }
    ]
   },
@@ -2945,16 +2963,16 @@
      "seconds": 3709
     },
     {
-     "id": "bA04lOulyO8",
-     "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 1시간 빡집중💥 공부할때 듣는 부드러운 팝송 플레이리스트📖",
-     "channel": "onia music 오니아 뮤직",
-     "seconds": 3601
-    },
-    {
      "id": "IJ0kurZy1DE",
      "title": "공부할때 듣는 음악 모음♬ (집중력 높이는 음악) |아련한, 슬픈, 잔잔한 음악 1시간",
      "channel": "Tido Kang",
      "seconds": 3762
+    },
+    {
+     "id": "bA04lOulyO8",
+     "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 1시간 빡집중💥 공부할때 듣는 부드러운 팝송 플레이리스트📖",
+     "channel": "onia music 오니아 뮤직",
+     "seconds": 3601
     },
     {
      "id": "APOQv1oV0EY",
@@ -2975,6 +2993,12 @@
      "seconds": 2744
     },
     {
+     "id": "JpV6s8wJrBk",
+     "title": "[2시간]🌈 공부할 때 듣기 좋은, 가사없는 애니메이션𝙤𝙨𝙩 명곡 피아노모음 🌼",
+     "channel": "상어오브뮤직",
+     "seconds": 7627
+    },
+    {
      "id": "Y6QPmRbFSig",
      "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 (가사X) 곧 받을 성적표는 100점 💯 공부할 때 듣는 로파이 ✍️ 공부 플레이리스트",
      "channel": "onia music 오니아 뮤직",
@@ -2985,12 +3009,6 @@
      "title": "[𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩] 1시간만 공부하자",
      "channel": "아미미누",
      "seconds": 3627
-    },
-    {
-     "id": "JpV6s8wJrBk",
-     "title": "[2시간]🌈 공부할 때 듣기 좋은, 가사없는 애니메이션𝙤𝙨𝙩 명곡 피아노모음 🌼",
-     "channel": "상어오브뮤직",
-     "seconds": 7627
     },
     {
      "id": "8-6ltMNZsZU",
@@ -3011,16 +3029,16 @@
      "seconds": 3962
     },
     {
-     "id": "x6mQkZ508iE",
-     "title": "[𝐉𝐚𝐧𝐧𝐚𝐛𝐢 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭]  피아노로 연주하는 잔나비 노래 1시간 모음 | JANNABI Piano Collection 1 Hour",
-     "channel": "택피아노 | TAEK PIANO",
-     "seconds": 3733
-    },
-    {
      "id": "44Mmk70ubPI",
      "title": "[Playlist] 너무 좋아서 매일 듣고 있는 팝송 모음 🎧｜ 공부할때 듣기 좋은 팝송 모음",
      "channel": "Objective.",
      "seconds": 3946
+    },
+    {
+     "id": "x6mQkZ508iE",
+     "title": "[𝐉𝐚𝐧𝐧𝐚𝐛𝐢 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭]  피아노로 연주하는 잔나비 노래 1시간 모음 | JANNABI Piano Collection 1 Hour",
+     "channel": "택피아노 | TAEK PIANO",
+     "seconds": 3733
     },
     {
      "id": "T7vtnmDOhtU",
@@ -3041,10 +3059,10 @@
      "seconds": 36000
     },
     {
-     "id": "7HiwrG0MeJQ",
-     "title": "[중간광고없음] 공부할 때 듣기 좋은 피아노 음악📚 (공부음악, 작업음악, 일할 때 듣는 음악, 집중할 때 듣는 음악, 독서음악) Relaxing Piano Music",
-     "channel": "몽렉싱피아노 MONGLAXING PIANO",
-     "seconds": 36600
+     "id": "ivOm8atZK34",
+     "title": "[2hour] 공부할 때 듣기 좋은 애니메이션 OST 피아노 커버 모음 | Animation OST Piano Cover Collection",
+     "channel": "상어오브뮤직",
+     "seconds": 6462
     },
     {
      "id": "klh7I70h3vg",
@@ -3053,16 +3071,10 @@
      "seconds": 11365
     },
     {
-     "id": "jhLSihtEYhs",
-     "title": "하루종일 들어도 편안한 피아노 연주 모음[Relaxing Piano]",
-     "channel": "마인드피아노 MIND PIANO",
-     "seconds": 36052
-    },
-    {
-     "id": "ivOm8atZK34",
-     "title": "[2hour] 공부할 때 듣기 좋은 애니메이션 OST 피아노 커버 모음 | Animation OST Piano Cover Collection",
-     "channel": "상어오브뮤직",
-     "seconds": 6462
+     "id": "7HiwrG0MeJQ",
+     "title": "[중간광고없음] 공부할 때 듣기 좋은 피아노 음악📚 (공부음악, 작업음악, 일할 때 듣는 음악, 집중할 때 듣는 음악, 독서음악) Relaxing Piano Music",
+     "channel": "몽렉싱피아노 MONGLAXING PIANO",
+     "seconds": 36600
     },
     {
      "id": "CozVKNGjIn4",
@@ -3071,16 +3083,16 @@
      "seconds": 37329
     },
     {
+     "id": "jhLSihtEYhs",
+     "title": "하루종일 들어도 편안한 피아노 연주 모음[Relaxing Piano]",
+     "channel": "마인드피아노 MIND PIANO",
+     "seconds": 36052
+    },
+    {
      "id": "PJdRgo5k6t0",
      "title": "[10H] Study with CCM / 📚공부할 때 힘이 되는 CCM 피아노 🎹 / CCM Piano Compilation / Worship / Pray / Sleep",
      "channel": "Christian BGM 크리스찬 BGM",
      "seconds": 36286
-    },
-    {
-     "id": "jSnVZ6srlxA",
-     "title": "여름을 가득 담은🍋 듣기만해도 기분 좋아지는 밝은 피아노 음악 10시간 l 일할때 듣기 좋은 피아노음악(중간광고없음)(공부, 집중, 일, 힐링, 매장, 카페음악)",
-     "channel": "몽렉싱피아노 MONGLAXING PIANO",
-     "seconds": 38619
     },
     {
      "id": "faHulloJfTM",
@@ -3093,6 +3105,12 @@
      "title": "[Piano Playlist] 3시간 동안 집중해서 공부하기",
      "channel": "우쥬플리 ᴡᴏᴜʟᴅ ʏᴏᴜ ᴘʟɪ",
      "seconds": 11166
+    },
+    {
+     "id": "jSnVZ6srlxA",
+     "title": "여름을 가득 담은🍋 듣기만해도 기분 좋아지는 밝은 피아노 음악 10시간 l 일할때 듣기 좋은 피아노음악(중간광고없음)(공부, 집중, 일, 힐링, 매장, 카페음악)",
+     "channel": "몽렉싱피아노 MONGLAXING PIANO",
+     "seconds": 38619
     },
     {
      "id": "RVnd8-MuC_A",
@@ -3113,16 +3131,16 @@
      "seconds": 39115
     },
     {
-     "id": "bYb7KR66nk0",
-     "title": "[𝐂𝐂𝐌 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭]  공부할 때 집중력을 높여주는 잔잔한 피아노 찬양 2시간 모음 | Study piano worship playlist 2 hours",
-     "channel": "택피아노 | TAEK PIANO",
-     "seconds": 8440
-    },
-    {
      "id": "CL8q39EgrE8",
      "title": "애니메이션 피아노 모음 [공부할 때 듣는 음악 / Piano Music for Study]",
      "channel": "Flow Music",
      "seconds": 11207
+    },
+    {
+     "id": "h4-3HLJ6w8g",
+     "title": "새벽을 위한 감성적인 피아노 음악 모음, 독서와 공부를 위한 음악, 슬픈 음악, 몽환적인 음악, 눈물이 나오는 음악, 잔잔한 배경음악, 매장음악, 책읽을때 듣는 음악, 소설, 만화",
+     "channel": "Tido Kang",
+     "seconds": 11408
     },
     {
      "id": "ZmojhJU-Iak",
@@ -3155,25 +3173,25 @@
      "seconds": 3617
     },
     {
-     "id": "3lgq273Rkvs",
-     "title": "60 Minute Timer 🐱 1 Hr Study Timer for Classroom Focus",
-     "channel": "Milli Lofi Timer",
-     "seconds": 3617
-    },
-    {
      "id": "vrLsNlZOF1o",
      "title": "60 Minutes of Focused Studying: The Best Binaural Beats",
      "channel": "Jody Hatton's Videos",
      "seconds": 3620
     },
     {
-     "id": "Woo6vVidCdY",
+     "id": "3lgq273Rkvs",
      "title": "60 Minute Timer 🐱 1 Hr Study Timer for Classroom Focus",
      "channel": "Milli Lofi Timer",
      "seconds": 3617
     },
     {
-     "id": "98ZHcjHbXAs",
+     "id": "kowyjKpvmX8",
+     "title": "60 Minute Timer 🐱 1 Hr Study Timer for Classroom Focus",
+     "channel": "Milli Lofi Timer",
+     "seconds": 3617
+    },
+    {
+     "id": "Woo6vVidCdY",
      "title": "60 Minute Timer 🐱 1 Hr Study Timer for Classroom Focus",
      "channel": "Milli Lofi Timer",
      "seconds": 3617
@@ -3185,16 +3203,22 @@
      "seconds": 3608
     },
     {
+     "id": "98ZHcjHbXAs",
+     "title": "60 Minute Timer 🐱 1 Hr Study Timer for Classroom Focus",
+     "channel": "Milli Lofi Timer",
+     "seconds": 3617
+    },
+    {
+     "id": "ZZzUIWt6iXY",
+     "title": "1 Hour of Deep Focus Music for Studying - Concentration Music For Deep Thinking And Focus",
+     "channel": "Quiet Quest - Study Music",
+     "seconds": 3603
+    },
+    {
      "id": "_6Qih8_SxrA",
      "title": "White Noise for Study & Focus | 1 Hour Ambience for Homework, Reading or Test Prep",
      "channel": "Relaxing White Noise",
      "seconds": 3600
-    },
-    {
-     "id": "ca3fBRmmrBA",
-     "title": "Academic Brown | 1 hr | Brown Noise: A Sonic Wellness Journey | Meditation, Study, Focus, Calming",
-     "channel": "Mindful Frequencies Lab",
-     "seconds": 3613
     },
     {
      "id": "YrCjtoq1dS0",
@@ -3203,10 +3227,10 @@
      "seconds": 3291
     },
     {
-     "id": "lkkGlVWvkLk",
-     "title": "Intense Study - 40Hz Gamma Binaural Beats to Increase Productivity and Focus",
-     "channel": "Study Sonic Focus",
-     "seconds": 7236
+     "id": "ca3fBRmmrBA",
+     "title": "Academic Brown | 1 hr | Brown Noise: A Sonic Wellness Journey | Meditation, Study, Focus, Calming",
+     "channel": "Mindful Frequencies Lab",
+     "seconds": 3613
     }
    ]
   },
@@ -3240,16 +3264,16 @@
      "seconds": 1753
     },
     {
-     "id": "xFVPgE73dXk",
-     "title": "☕ 작업할 때 듣기 좋은 테일즈위버 커버 모음 | Playlist",
-     "channel": "느린달팽이",
-     "seconds": 11379
-    },
-    {
      "id": "hgPI9NJdPFc",
      "title": "✍️ 작업할 때 듣기 좋은 메이플 커버 1시간",
      "channel": "느린달팽이",
      "seconds": 4076
+    },
+    {
+     "id": "xFVPgE73dXk",
+     "title": "☕ 작업할 때 듣기 좋은 테일즈위버 커버 모음 | Playlist",
+     "channel": "느린달팽이",
+     "seconds": 11379
     },
     {
      "id": "VIEO6h-AWYQ",
@@ -3258,10 +3282,10 @@
      "seconds": 3598
     },
     {
-     "id": "tMz4orXGlc0",
-     "title": "공부할 때 듣기 좋은 메이플 BGM 모음 (Study Playlist)",
-     "channel": "공대생의 음악추천",
-     "seconds": 2618
+     "id": "WbCJQHN4RLY",
+     "title": "𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 | 시끄러운 건 싫고 둠칫하고는 싶어🕺🏻 일할 때 듣기 좋은 플레이리스트 🎼",
+     "channel": "라이크둠칫",
+     "seconds": 9668
     },
     {
      "id": "wojsSCBQJVc",
@@ -3270,10 +3294,10 @@
      "seconds": 3608
     },
     {
-     "id": "wnudr9qjrbA",
-     "title": "[지브리 스튜디오] 공부할때, 일할때 듣기좋은 음악 모음 12시간(검은화면) (12hours)(피아노)(Relaxing Piano Studio Ghibli Collection)",
-     "channel": "#include 〈music.h〉",
-     "seconds": 42503
+     "id": "dpg4_B8TtPg",
+     "title": "공부할 때 들을려고 만든 플리",
+     "channel": "민.직",
+     "seconds": 3226
     },
     {
      "id": "-UGaNmvjWCM",
@@ -3282,10 +3306,22 @@
      "seconds": 6256
     },
     {
-     "id": "dpg4_B8TtPg",
-     "title": "공부할 때 들을려고 만든 플리",
-     "channel": "민.직",
-     "seconds": 3226
+     "id": "tMz4orXGlc0",
+     "title": "공부할 때 듣기 좋은 메이플 BGM 모음 (Study Playlist)",
+     "channel": "공대생의 음악추천",
+     "seconds": 2618
+    },
+    {
+     "id": "UMcqpEuMUrs",
+     "title": "마음이 조급할 때 듣는 브금",
+     "channel": "지꿍 ",
+     "seconds": 3663
+    },
+    {
+     "id": "wnudr9qjrbA",
+     "title": "[지브리 스튜디오] 공부할때, 일할때 듣기좋은 음악 모음 12시간(검은화면) (12hours)(피아노)(Relaxing Piano Studio Ghibli Collection)",
+     "channel": "#include 〈music.h〉",
+     "seconds": 42503
     },
     {
      "id": "NLWrQR-ZURM",
@@ -3318,52 +3354,28 @@
      "seconds": 10357
     },
     {
-     "id": "FeMBhPyDV3o",
-     "title": "여름 플리 이걸로 끝!☀️ 일하면서 듣기 좋은 카페음악 중간광고없음 (인기많던 첫곡모음) 🧊 Design making tutorial",
-     "channel": "Blue rain",
-     "seconds": 8261
-    },
-    {
      "id": "oAjsO65LE6M",
      "title": "{Playlist} 한강이 보이는 곳에서 작업할 때 흘러나오는 그루브한 플레이리스트 | Groove & RnB & hip hop Playlist",
      "channel": "브로드플레이",
      "seconds": 5451
     },
     {
-     "id": "Z2By9dV9cNs",
-     "title": "잔잔한 팝송 플레이리스트 🎧 | 공부·작업할 때 Lofi Chill Pop",
-     "channel": "SISO Wave",
-     "seconds": 8611
+     "id": "yHY5bhh9JLk",
+     "title": "적당히 신나는데 집중도 잘 돼...💻 노동요 플레이리스트 광고없음 3시간 | work music 🗽 Design making tutorial",
+     "channel": "Blue rain",
+     "seconds": 10864
     },
     {
-     "id": "EQIDhLT_WJU",
-     "title": "[playlist] 청소할 때 빨래할 때 요리할 때 설거지할 때 드라이브할 때 만능 플레이리스트",
-     "channel": "모퉁이 카페Mocha",
-     "seconds": 1602
+     "id": "3Q-s3ImX_rk",
+     "title": "[Playlist] 천천히, 깊어지는 밤 🖤｜ 공부할때 듣기 좋은 팝송 모음",
+     "channel": "Objective.",
+     "seconds": 4214
     },
     {
-     "id": "_4kHxtiuML0",
-     "title": "Focus Music for Work and Studying, Background Music for Concentration, Study Music",
-     "channel": "Greenred Productions - Relaxing Music",
-     "seconds": 32933
-    },
-    {
-     "id": "OWz7HiR6H-0",
-     "title": "Focus Like a CEO in Your Penthouse — Work Music for Hyper Focus & Efficiency",
-     "channel": "Chill Music Lab",
-     "seconds": 10156
-    },
-    {
-     "id": "qOfBjjYhkiY",
-     "title": "Office Hours: Chill R&B Vibes for Work, Studying, Relaxing | DJ Suave DJ Set | R&B ONLY",
-     "channel": "R&B ONLY",
-     "seconds": 3794
-    },
-    {
-     "id": "Fxxasqvlr40",
-     "title": "Work With Me | 2 Hour Focus Session With Lo-Fi Productivity Music | 1hr-10min-1hr",
-     "channel": "Work With Ron",
-     "seconds": 7883
+     "id": "_5PO8HYZhdc",
+     "title": "Nobody’s Coming to Save You — Deep Focus Work Music for Motivation (1 Hour)",
+     "channel": "Cinematic Moves",
+     "seconds": 3637
     },
     {
      "id": "ZVb_yKMivqo",
@@ -3372,10 +3384,22 @@
      "seconds": 4580
     },
     {
-     "id": "_5PO8HYZhdc",
-     "title": "Nobody’s Coming to Save You — Deep Focus Work Music for Motivation (1 Hour)",
-     "channel": "Cinematic Moves",
-     "seconds": 3637
+     "id": "TIqsKXQHvFI",
+     "title": "When the Stakes Are High | Focus Music",
+     "channel": "Cinematic Focus",
+     "seconds": 3614
+    },
+    {
+     "id": "Fxxasqvlr40",
+     "title": "Work With Me | 2 Hour Focus Session With Lo-Fi Productivity Music | 1hr-10min-1hr",
+     "channel": "Work With Ron",
+     "seconds": 7883
+    },
+    {
+     "id": "aIbyceB8GOQ",
+     "title": "After Hours Ambition | While Others Sleep, You’re Changing Your Life",
+     "channel": "Flow State Studio",
+     "seconds": 3618
     },
     {
      "id": "LYigiwbaX_U",
@@ -3390,16 +3414,10 @@
      "seconds": 3600
     },
     {
-     "id": "TIqsKXQHvFI",
-     "title": "When the Stakes Are High | Focus Music",
-     "channel": "Cinematic Focus",
-     "seconds": 3614
-    },
-    {
-     "id": "CWcRJbFSTx4",
-     "title": "𝐘𝐨𝐮 𝐜𝐚𝐧 𝐞𝐢𝐭𝐡𝐞𝐫 𝐚𝐜𝐜𝐞𝐩𝐭 𝐭𝐡𝐚𝐭, 𝐨𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐠𝐞𝐭 𝐭𝐨 𝐰𝐨𝐫𝐤 | 𝐓𝐡𝐞 𝐌𝐚𝐫𝐭𝐢𝐚𝐧 𝐒𝐨𝐮𝐧𝐝𝐭𝐫𝐚𝐜𝐤",
-     "channel": "𝐌𝐔𝐍𝐃𝐈 𝐎𝐏𝐔𝐒",
-     "seconds": 3628
+     "id": "TsPecr7jd2Y",
+     "title": "Deep Work Music for True Grind | One Hour, One Goal",
+     "channel": "sout",
+     "seconds": 5164
     },
     {
      "id": "ijN7_ydztYU",
@@ -3408,34 +3426,22 @@
      "seconds": 3385
     },
     {
-     "id": "9vHkUSsljXE",
-     "title": "2026 Top Hits Clean ♫ Trending Clean Music 2026 🔥 Best Pop Clean Hits for Workout & Classroom 2026",
-     "channel": "Amazing Vibes",
-     "seconds": 5537
+     "id": "OWz7HiR6H-0",
+     "title": "Focus Like a CEO in Your Penthouse — Work Music for Hyper Focus & Efficiency",
+     "channel": "Chill Music Lab",
+     "seconds": 10156
     },
     {
-     "id": "T1-MlStCX0U",
-     "title": "Think Different, Win Different | Focus Music | Moneyball Soundtrack",
-     "channel": "Cinematic Focus",
-     "seconds": 3601
+     "id": "bSkzWpcWz-o",
+     "title": "𝐘𝐨𝐮 𝐚𝐫𝐞 𝐩𝐫𝐨𝐯𝐢𝐧𝐠 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐰𝐫𝐨𝐧𝐠 | 𝐒𝐮𝐢𝐭𝐬 𝐒𝐨𝐮𝐧𝐝𝐭𝐫𝐚𝐜𝐤",
+     "channel": "𝐌𝐔𝐍𝐃𝐈 𝐎𝐏𝐔𝐒",
+     "seconds": 3676
     },
     {
-     "id": "3lZYvVRCWO0",
-     "title": "𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁🎧 틀어놓기만 해도 분위기를 채워주는 잔잔한 플레이리스트 | Chill & Mood",
-     "channel": "Breeze Mood",
-     "seconds": 8021
-    },
-    {
-     "id": "vuJt2sGdkdU",
-     "title": "Succession Music to Work With Kendall Roy",
-     "channel": "Jsco Music",
-     "seconds": 3846
-    },
-    {
-     "id": "TsPecr7jd2Y",
-     "title": "Deep Work Music for True Grind | One Hour, One Goal",
-     "channel": "sout",
-     "seconds": 5164
+     "id": "MYW0TgV67RE",
+     "title": "Work Music for Serious Grind | Stay Aligned",
+     "channel": "MM",
+     "seconds": 6400
     },
     {
      "id": "hydk9hHO1Ko",
@@ -3444,10 +3450,34 @@
      "seconds": 5759
     },
     {
-     "id": "MYW0TgV67RE",
-     "title": "Work Music for Serious Grind | Stay Aligned",
-     "channel": "MM",
-     "seconds": 6400
+     "id": "XAsPzOp9_po",
+     "title": "1 Hour Deep Work Timer 🎵 | 60 Minute timer focus for Productivity",
+     "channel": "LuLu Bunny Timer",
+     "seconds": 3620
+    },
+    {
+     "id": "T1-MlStCX0U",
+     "title": "Think Different, Win Different | Focus Music | Moneyball Soundtrack",
+     "channel": "Cinematic Focus",
+     "seconds": 3601
+    },
+    {
+     "id": "CWcRJbFSTx4",
+     "title": "𝐘𝐨𝐮 𝐜𝐚𝐧 𝐞𝐢𝐭𝐡𝐞𝐫 𝐚𝐜𝐜𝐞𝐩𝐭 𝐭𝐡𝐚𝐭, 𝐨𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐠𝐞𝐭 𝐭𝐨 𝐰𝐨𝐫𝐤 | 𝐓𝐡𝐞 𝐌𝐚𝐫𝐭𝐢𝐚𝐧 𝐒𝐨𝐮𝐧𝐝𝐭𝐫𝐚𝐜𝐤",
+     "channel": "𝐌𝐔𝐍𝐃𝐈 𝐎𝐏𝐔𝐒",
+     "seconds": 3628
+    },
+    {
+     "id": "on40ISrPmIk",
+     "title": "You Are Working Under Pressure | Succession | Focus Music",
+     "channel": "Cinematic Focus",
+     "seconds": 3600
+    },
+    {
+     "id": "lsyjygwFe2k",
+     "title": "[ 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 ] ☕ K-Pop Cafe Music to Relax, Study,  Work, Chill 🎧",
+     "channel": "VibyFiles",
+     "seconds": 14943
     }
    ]
   }
